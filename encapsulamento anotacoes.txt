@@ -1,0 +1,101 @@
+Encapsulamento ---
+//Anotações feitas durante as Aulas teóricas apenas para registrar o conteúdo. Não houve execução do programa.
+//A linguagem utilizada é C# porém com algumas áreas onde estão apenas sendo copiadas conforme os slides das aulas
+
+interface Controlador
+
+ //Métodos abstratos
+	public abstrato Metod ligar()
+	public abstrato Metod desligar()
+	public abstrato Metod abrirMenu()
+	public abstrato Metod fecharMenu()
+	public abstrato Metod maisVolume()
+	public abstrato Metod menosVolume()
+	public abstrato Metod ligarMudo()
+	public abstrato Metod desligarMudo()
+	public abstrato Metod play()
+	public abstrato Metod pause()
+
+   FimInterface
+
+
+Classe ControleRemoto
+ implementa Controlador
+   //Sobrescrevendo Métodos
+
+	public  Metod ligar()
+		setLigado(verdadeiro)
+	FimMetodo
+
+	public  Metod desligar()
+		setLigado(falso)
+	FimMetodo
+
+	public  Metod abrirMenu()
+		Escreva(getLigado())
+		Escreva(getVolume())
+			Para i = 0 ate getVolume() passo 10 faca
+				Escreva("|")
+			FimPara
+		Escreva(getTocando())
+	FimMetodo
+
+	public  Metod fecharMenu()
+		Escreva("Fechando Menu")
+	FimMetodo
+
+	public  Metod maisVolume()
+		if (getLigado()) entao
+			setVolume(getVolume() + 1)
+	FimMetodo
+
+	public  Metod menosVolume()
+		if (getLigado() e getVolume() > 0) entao  
+			setVolume(getVolume() - 1 )
+	FimMetodo
+
+	public  Metod ligarMudo()
+		if (getLigado() e getVolume() > 0)entao
+			setVolume(0)
+	FimMetodo
+
+	public  Metod desligarMudo()
+		if (getLigado() e getVolume() = 0)entao
+			setVolume(50)
+	FimMetodo
+
+	public  Metod play()
+		if (getLigado() e nao getTocando())entao
+			setTocando(verdadeiro)
+	FimMetodo
+
+	public  Metod pause()
+		if (getLigado() e getTocando())entao
+			setTocando(falso)
+	FimMetodo
+
+  //Atributos
+	private inteiro volume
+	private logico ligado
+	private logico tocando
+
+  //Métodos Especiais
+	public Metod Construtor()
+		volume = 50
+		ligado = falso
+		tocando = falso
+   FimMetodo
+	public Metod getVolume(v: Inteiro)
+		return volume;
+	public Metod getLigado(l: Logico)
+		return Ligado;
+	public Metod getTocando(t: Logico)
+		return tocando;
+	public Metod setVolume(v: Inteiro)
+		volume = v;
+	public Metod setLigado(l: Logico)
+		ligado = l;
+	public Metod setTocando(t: Logico)
+		tocando = t;
+  FimMetodo
+FimClasse

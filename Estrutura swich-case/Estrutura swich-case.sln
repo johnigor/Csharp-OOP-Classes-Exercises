@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estrutura swich-case", "Estrutura swich-case\Estrutura swich-case.csproj", "{585DAC9A-3FD3-4DFC-B349-FCF0A68C703D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{585DAC9A-3FD3-4DFC-B349-FCF0A68C703D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{585DAC9A-3FD3-4DFC-B349-FCF0A68C703D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{585DAC9A-3FD3-4DFC-B349-FCF0A68C703D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{585DAC9A-3FD3-4DFC-B349-FCF0A68C703D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D93A924E-2B94-45E1-801F-790BC915DCA1}
+	EndGlobalSection
+EndGlobal

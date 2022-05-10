@@ -1,0 +1,16 @@
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Vetor + Classe\Vetor + Classe\bin\Debug\net5.0\Vetor + Classe.exe
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Vetor + Classe\Vetor + Classe\bin\Debug\net5.0\Vetor + Classe.deps.json
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Vetor + Classe\Vetor + Classe\bin\Debug\net5.0\Vetor + Classe.runtimeconfig.json
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Vetor + Classe\Vetor + Classe\bin\Debug\net5.0\Vetor + Classe.runtimeconfig.dev.json
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Vetor + Classe\Vetor + Classe\bin\Debug\net5.0\Vetor + Classe.dll
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Vetor + Classe\Vetor + Classe\bin\Debug\net5.0\Vetor + Classe.pdb
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Vetor + Classe\Vetor + Classe\obj\Debug\net5.0\Vetor + Classe.csproj.AssemblyReference.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Vetor + Classe\Vetor + Classe\obj\Debug\net5.0\Vetor + Classe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Vetor + Classe\Vetor + Classe\obj\Debug\net5.0\Vetor + Classe.AssemblyInfoInputs.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Vetor + Classe\Vetor + Classe\obj\Debug\net5.0\Vetor + Classe.AssemblyInfo.cs
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Vetor + Classe\Vetor + Classe\obj\Debug\net5.0\Vetor + Classe.csproj.CoreCompileInputs.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Vetor + Classe\Vetor + Classe\obj\Debug\net5.0\Vetor + Classe.dll
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Vetor + Classe\Vetor + Classe\obj\Debug\net5.0\refint\Vetor + Classe.dll
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Vetor + Classe\Vetor + Classe\obj\Debug\net5.0\Vetor + Classe.pdb
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Vetor + Classe\Vetor + Classe\obj\Debug\net5.0\Vetor + Classe.genruntimeconfig.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Vetor + Classe\Vetor + Classe\obj\Debug\net5.0\ref\Vetor + Classe.dll

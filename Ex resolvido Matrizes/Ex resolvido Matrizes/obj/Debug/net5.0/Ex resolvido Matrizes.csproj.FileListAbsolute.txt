@@ -1,0 +1,16 @@
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex resolvido Matrizes\Ex resolvido Matrizes\bin\Debug\net5.0\Ex resolvido Matrizes.exe
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex resolvido Matrizes\Ex resolvido Matrizes\bin\Debug\net5.0\Ex resolvido Matrizes.deps.json
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex resolvido Matrizes\Ex resolvido Matrizes\bin\Debug\net5.0\Ex resolvido Matrizes.runtimeconfig.json
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex resolvido Matrizes\Ex resolvido Matrizes\bin\Debug\net5.0\Ex resolvido Matrizes.runtimeconfig.dev.json
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex resolvido Matrizes\Ex resolvido Matrizes\bin\Debug\net5.0\Ex resolvido Matrizes.dll
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex resolvido Matrizes\Ex resolvido Matrizes\bin\Debug\net5.0\Ex resolvido Matrizes.pdb
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex resolvido Matrizes\Ex resolvido Matrizes\obj\Debug\net5.0\Ex resolvido Matrizes.csproj.AssemblyReference.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex resolvido Matrizes\Ex resolvido Matrizes\obj\Debug\net5.0\Ex resolvido Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex resolvido Matrizes\Ex resolvido Matrizes\obj\Debug\net5.0\Ex resolvido Matrizes.AssemblyInfoInputs.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex resolvido Matrizes\Ex resolvido Matrizes\obj\Debug\net5.0\Ex resolvido Matrizes.AssemblyInfo.cs
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex resolvido Matrizes\Ex resolvido Matrizes\obj\Debug\net5.0\Ex resolvido Matrizes.csproj.CoreCompileInputs.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex resolvido Matrizes\Ex resolvido Matrizes\obj\Debug\net5.0\Ex resolvido Matrizes.dll
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex resolvido Matrizes\Ex resolvido Matrizes\obj\Debug\net5.0\refint\Ex resolvido Matrizes.dll
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex resolvido Matrizes\Ex resolvido Matrizes\obj\Debug\net5.0\Ex resolvido Matrizes.pdb
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex resolvido Matrizes\Ex resolvido Matrizes\obj\Debug\net5.0\Ex resolvido Matrizes.genruntimeconfig.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex resolvido Matrizes\Ex resolvido Matrizes\obj\Debug\net5.0\ref\Ex resolvido Matrizes.dll

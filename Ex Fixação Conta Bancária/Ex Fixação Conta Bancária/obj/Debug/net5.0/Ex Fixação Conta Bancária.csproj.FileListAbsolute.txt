@@ -1,0 +1,16 @@
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex Fixação Conta Bancária\Ex Fixação Conta Bancária\bin\Debug\net5.0\Ex Fixação Conta Bancária.exe
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex Fixação Conta Bancária\Ex Fixação Conta Bancária\bin\Debug\net5.0\Ex Fixação Conta Bancária.deps.json
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex Fixação Conta Bancária\Ex Fixação Conta Bancária\bin\Debug\net5.0\Ex Fixação Conta Bancária.runtimeconfig.json
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex Fixação Conta Bancária\Ex Fixação Conta Bancária\bin\Debug\net5.0\Ex Fixação Conta Bancária.runtimeconfig.dev.json
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex Fixação Conta Bancária\Ex Fixação Conta Bancária\bin\Debug\net5.0\Ex Fixação Conta Bancária.dll
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex Fixação Conta Bancária\Ex Fixação Conta Bancária\bin\Debug\net5.0\Ex Fixação Conta Bancária.pdb
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex Fixação Conta Bancária\Ex Fixação Conta Bancária\obj\Debug\net5.0\Ex Fixação Conta Bancária.csproj.AssemblyReference.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex Fixação Conta Bancária\Ex Fixação Conta Bancária\obj\Debug\net5.0\Ex Fixação Conta Bancária.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex Fixação Conta Bancária\Ex Fixação Conta Bancária\obj\Debug\net5.0\Ex Fixação Conta Bancária.AssemblyInfoInputs.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex Fixação Conta Bancária\Ex Fixação Conta Bancária\obj\Debug\net5.0\Ex Fixação Conta Bancária.AssemblyInfo.cs
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex Fixação Conta Bancária\Ex Fixação Conta Bancária\obj\Debug\net5.0\Ex Fixação Conta Bancária.csproj.CoreCompileInputs.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex Fixação Conta Bancária\Ex Fixação Conta Bancária\obj\Debug\net5.0\Ex Fixação Conta Bancária.dll
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex Fixação Conta Bancária\Ex Fixação Conta Bancária\obj\Debug\net5.0\refint\Ex Fixação Conta Bancária.dll
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex Fixação Conta Bancária\Ex Fixação Conta Bancária\obj\Debug\net5.0\Ex Fixação Conta Bancária.pdb
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex Fixação Conta Bancária\Ex Fixação Conta Bancária\obj\Debug\net5.0\Ex Fixação Conta Bancária.genruntimeconfig.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex Fixação Conta Bancária\Ex Fixação Conta Bancária\obj\Debug\net5.0\ref\Ex Fixação Conta Bancária.dll

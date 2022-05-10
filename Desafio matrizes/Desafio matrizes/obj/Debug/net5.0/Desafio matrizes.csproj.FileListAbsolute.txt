@@ -1,0 +1,16 @@
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Desafio matrizes\Desafio matrizes\bin\Debug\net5.0\Desafio matrizes.exe
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Desafio matrizes\Desafio matrizes\bin\Debug\net5.0\Desafio matrizes.deps.json
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Desafio matrizes\Desafio matrizes\bin\Debug\net5.0\Desafio matrizes.runtimeconfig.json
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Desafio matrizes\Desafio matrizes\bin\Debug\net5.0\Desafio matrizes.runtimeconfig.dev.json
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Desafio matrizes\Desafio matrizes\bin\Debug\net5.0\Desafio matrizes.dll
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Desafio matrizes\Desafio matrizes\bin\Debug\net5.0\Desafio matrizes.pdb
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Desafio matrizes\Desafio matrizes\obj\Debug\net5.0\Desafio matrizes.csproj.AssemblyReference.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Desafio matrizes\Desafio matrizes\obj\Debug\net5.0\Desafio matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Desafio matrizes\Desafio matrizes\obj\Debug\net5.0\Desafio matrizes.AssemblyInfoInputs.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Desafio matrizes\Desafio matrizes\obj\Debug\net5.0\Desafio matrizes.AssemblyInfo.cs
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Desafio matrizes\Desafio matrizes\obj\Debug\net5.0\Desafio matrizes.csproj.CoreCompileInputs.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Desafio matrizes\Desafio matrizes\obj\Debug\net5.0\Desafio matrizes.dll
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Desafio matrizes\Desafio matrizes\obj\Debug\net5.0\refint\Desafio matrizes.dll
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Desafio matrizes\Desafio matrizes\obj\Debug\net5.0\Desafio matrizes.pdb
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Desafio matrizes\Desafio matrizes\obj\Debug\net5.0\Desafio matrizes.genruntimeconfig.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Desafio matrizes\Desafio matrizes\obj\Debug\net5.0\ref\Desafio matrizes.dll

@@ -1,0 +1,8 @@
+Relacionamento de Agredação
+Criação da classe "Luta" para representar o combate entre dois lutadores. (arquivo "relacionamento entre classes)
+//Anotações feitas durante as Aulas teóricas apenas para registrar o conteúdo. Não houve execução do programa.
+//A linguagem utilizada é C# porém com algumas áreas onde estão apenas sendo copiadas conforme os slides das aulas
+
+Classe Luta 
+
+publico metodo desafiado()

@@ -1,0 +1,16 @@
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exercício de fixação\Exercício de fixação\bin\Debug\net5.0\Exercício de fixação.exe
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exercício de fixação\Exercício de fixação\bin\Debug\net5.0\Exercício de fixação.deps.json
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exercício de fixação\Exercício de fixação\bin\Debug\net5.0\Exercício de fixação.runtimeconfig.json
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exercício de fixação\Exercício de fixação\bin\Debug\net5.0\Exercício de fixação.runtimeconfig.dev.json
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exercício de fixação\Exercício de fixação\bin\Debug\net5.0\Exercício de fixação.dll
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exercício de fixação\Exercício de fixação\bin\Debug\net5.0\Exercício de fixação.pdb
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exercício de fixação\Exercício de fixação\obj\Debug\net5.0\Exercício de fixação.csproj.AssemblyReference.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exercício de fixação\Exercício de fixação\obj\Debug\net5.0\Exercício de fixação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exercício de fixação\Exercício de fixação\obj\Debug\net5.0\Exercício de fixação.AssemblyInfoInputs.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exercício de fixação\Exercício de fixação\obj\Debug\net5.0\Exercício de fixação.AssemblyInfo.cs
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exercício de fixação\Exercício de fixação\obj\Debug\net5.0\Exercício de fixação.csproj.CoreCompileInputs.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exercício de fixação\Exercício de fixação\obj\Debug\net5.0\Exercício de fixação.dll
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exercício de fixação\Exercício de fixação\obj\Debug\net5.0\refint\Exercício de fixação.dll
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exercício de fixação\Exercício de fixação\obj\Debug\net5.0\Exercício de fixação.pdb
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exercício de fixação\Exercício de fixação\obj\Debug\net5.0\Exercício de fixação.genruntimeconfig.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exercício de fixação\Exercício de fixação\obj\Debug\net5.0\ref\Exercício de fixação.dll

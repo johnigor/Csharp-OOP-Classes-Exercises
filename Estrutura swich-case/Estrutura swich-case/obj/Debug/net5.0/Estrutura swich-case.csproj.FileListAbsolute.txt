@@ -1,0 +1,16 @@
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Estrutura swich-case\Estrutura swich-case\bin\Debug\net5.0\Estrutura swich-case.exe
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Estrutura swich-case\Estrutura swich-case\bin\Debug\net5.0\Estrutura swich-case.deps.json
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Estrutura swich-case\Estrutura swich-case\bin\Debug\net5.0\Estrutura swich-case.runtimeconfig.json
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Estrutura swich-case\Estrutura swich-case\bin\Debug\net5.0\Estrutura swich-case.runtimeconfig.dev.json
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Estrutura swich-case\Estrutura swich-case\bin\Debug\net5.0\Estrutura swich-case.dll
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Estrutura swich-case\Estrutura swich-case\bin\Debug\net5.0\Estrutura swich-case.pdb
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Estrutura swich-case\Estrutura swich-case\obj\Debug\net5.0\Estrutura swich-case.csproj.AssemblyReference.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Estrutura swich-case\Estrutura swich-case\obj\Debug\net5.0\Estrutura swich-case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Estrutura swich-case\Estrutura swich-case\obj\Debug\net5.0\Estrutura swich-case.AssemblyInfoInputs.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Estrutura swich-case\Estrutura swich-case\obj\Debug\net5.0\Estrutura swich-case.AssemblyInfo.cs
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Estrutura swich-case\Estrutura swich-case\obj\Debug\net5.0\Estrutura swich-case.csproj.CoreCompileInputs.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Estrutura swich-case\Estrutura swich-case\obj\Debug\net5.0\Estrutura swich-case.dll
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Estrutura swich-case\Estrutura swich-case\obj\Debug\net5.0\refint\Estrutura swich-case.dll
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Estrutura swich-case\Estrutura swich-case\obj\Debug\net5.0\Estrutura swich-case.pdb
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Estrutura swich-case\Estrutura swich-case\obj\Debug\net5.0\Estrutura swich-case.genruntimeconfig.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Estrutura swich-case\Estrutura swich-case\obj\Debug\net5.0\ref\Estrutura swich-case.dll

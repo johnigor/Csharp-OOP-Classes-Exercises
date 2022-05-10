@@ -1,0 +1,100 @@
+//Relacionamento entre classes OOP, professor Gustavo Guanabara
+//Anotações feitas durante as Aulas teóricas apenas para registrar o conteúdo. Não houve execução do programa.
+//A linguagem utilizada é C# porém com algumas áreas onde estão apenas sendo copiadas conforme os slides das aulas
+
+classe Lutador
+
+ //Atributos
+  private nome: Caractere
+  private nacionalidade: Caractere
+  private idade: Inteiro
+  private altura: Real
+  private peso: Real
+  private categoria: Caractere
+  private vitorias: Inteiro
+  private derrotas: Inteiro
+  private empates: Inteiro
+
+ //Métodos Especiais
+  public metod constructor(no:Caractere, na:Caractere, id:Inteiro, al:Real, pe:Real, vi:Inteiro, de:Inteiro, em:Inteiro) {
+    nome = no
+    nacionalidade = na
+    idade = id
+    altura = al
+    setPeso(pe)
+  }        
+
+  public metod getNome() {
+    return nome;
+  }
+  public metod setNome(no:Caractere) {
+    nome = no;
+  }
+  public metod getPeso() {
+    return peso;
+  }
+  public metod setPeso(pe:Caractere) {
+    peso = pe
+    setCategoria()
+
+    public metod setCategoria() {
+      if (peso<52.2) {
+        categoria = "Inválido";
+      }
+      else if (peso<=70.3) {
+        categoria = "Médio"
+      }
+      else if (peso<=83.9) {
+        categoria = "Médio";
+      }
+      else {
+        categoria = "Pesado";
+      }
+  }
+
+  public metod ganharLuta() {
+    setVitorias(getVitorias() + 1);
+  }  
+  public metod perderLuta() {
+    setDerrotas(getDerrotas() + 1);
+  }
+  public metod empatarLuta() {
+    setEmpates(getEmpates() + 1);
+  }
+
+ //Métodos
+  public metod apresentar() {
+    Escreva("Lutador: ", getNome());
+    Escreva("Origem: " getNacionalidade());
+    Escreva(getIdade(), "anos");
+    Escreva(getAltura()," m de altura");
+    Escreva("Pesando: ", getPeso(), "Kg");
+    Escreva("Ganhou: ", getVitorias());
+    Escreva("Perdeu: ", getDerrotas());
+    Escreva("Empatou: ", getEmpates());
+
+  }
+
+  public metod status() {}
+
+  public metod ganharLuta() {}
+
+  public metod perderLuta() {}
+
+  public metod empatarLuta() {}
+
+
+FimClasse 
+
+//Programa Principal
+
+L: vetor[0..5]
+L[0] = novo Lutador("Pretty boy", "França", 31, 1.75, 68.9, 11, 3, 1);
+L[1] = novo Lutador("Putscript", "Brasil", 29, 1.68, 57.8, 14, 2, 3);
+L[2] = novo Lutador("Snapshadow", "EUA", 35, 1.65, 80.9, 12, 2, 1);
+L[3] = novo Lutador("Dead Code", "Australia", 28, 1.93, 81.6, 13, 0, 2);
+
+L[0].apresentar();
+L[2].status();
+L[3].getCategoria();
+L[1].ganharLuta();

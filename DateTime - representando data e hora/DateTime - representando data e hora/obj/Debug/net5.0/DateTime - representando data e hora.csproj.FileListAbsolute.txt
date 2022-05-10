@@ -1,0 +1,16 @@
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\DateTime - representando data e hora\DateTime - representando data e hora\bin\Debug\net5.0\DateTime - representando data e hora.exe
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\DateTime - representando data e hora\DateTime - representando data e hora\bin\Debug\net5.0\DateTime - representando data e hora.deps.json
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\DateTime - representando data e hora\DateTime - representando data e hora\bin\Debug\net5.0\DateTime - representando data e hora.runtimeconfig.json
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\DateTime - representando data e hora\DateTime - representando data e hora\bin\Debug\net5.0\DateTime - representando data e hora.runtimeconfig.dev.json
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\DateTime - representando data e hora\DateTime - representando data e hora\bin\Debug\net5.0\DateTime - representando data e hora.dll
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\DateTime - representando data e hora\DateTime - representando data e hora\bin\Debug\net5.0\DateTime - representando data e hora.pdb
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\DateTime - representando data e hora\DateTime - representando data e hora\obj\Debug\net5.0\DateTime - representando data e hora.csproj.AssemblyReference.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\DateTime - representando data e hora\DateTime - representando data e hora\obj\Debug\net5.0\DateTime - representando data e hora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\DateTime - representando data e hora\DateTime - representando data e hora\obj\Debug\net5.0\DateTime - representando data e hora.AssemblyInfoInputs.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\DateTime - representando data e hora\DateTime - representando data e hora\obj\Debug\net5.0\DateTime - representando data e hora.AssemblyInfo.cs
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\DateTime - representando data e hora\DateTime - representando data e hora\obj\Debug\net5.0\DateTime - representando data e hora.csproj.CoreCompileInputs.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\DateTime - representando data e hora\DateTime - representando data e hora\obj\Debug\net5.0\DateTime - representando data e hora.dll
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\DateTime - representando data e hora\DateTime - representando data e hora\obj\Debug\net5.0\refint\DateTime - representando data e hora.dll
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\DateTime - representando data e hora\DateTime - representando data e hora\obj\Debug\net5.0\DateTime - representando data e hora.pdb
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\DateTime - representando data e hora\DateTime - representando data e hora\obj\Debug\net5.0\DateTime - representando data e hora.genruntimeconfig.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\DateTime - representando data e hora\DateTime - representando data e hora\obj\Debug\net5.0\ref\DateTime - representando data e hora.dll

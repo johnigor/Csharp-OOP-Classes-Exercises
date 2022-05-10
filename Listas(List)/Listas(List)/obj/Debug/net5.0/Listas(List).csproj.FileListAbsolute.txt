@@ -1,0 +1,16 @@
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Listas(List)\Listas(List)\bin\Debug\net5.0\Listas(List).exe
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Listas(List)\Listas(List)\bin\Debug\net5.0\Listas(List).deps.json
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Listas(List)\Listas(List)\bin\Debug\net5.0\Listas(List).runtimeconfig.json
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Listas(List)\Listas(List)\bin\Debug\net5.0\Listas(List).runtimeconfig.dev.json
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Listas(List)\Listas(List)\bin\Debug\net5.0\Listas(List).dll
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Listas(List)\Listas(List)\bin\Debug\net5.0\Listas(List).pdb
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Listas(List)\Listas(List)\obj\Debug\net5.0\Listas(List).csproj.AssemblyReference.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Listas(List)\Listas(List)\obj\Debug\net5.0\Listas(List).GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Listas(List)\Listas(List)\obj\Debug\net5.0\Listas(List).AssemblyInfoInputs.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Listas(List)\Listas(List)\obj\Debug\net5.0\Listas(List).AssemblyInfo.cs
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Listas(List)\Listas(List)\obj\Debug\net5.0\Listas(List).csproj.CoreCompileInputs.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Listas(List)\Listas(List)\obj\Debug\net5.0\Listas(List).dll
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Listas(List)\Listas(List)\obj\Debug\net5.0\refint\Listas(List).dll
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Listas(List)\Listas(List)\obj\Debug\net5.0\Listas(List).pdb
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Listas(List)\Listas(List)\obj\Debug\net5.0\Listas(List).genruntimeconfig.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Listas(List)\Listas(List)\obj\Debug\net5.0\ref\Listas(List).dll

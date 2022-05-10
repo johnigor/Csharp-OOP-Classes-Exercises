@@ -1,0 +1,16 @@
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex1 Aula2\Ex1 Aula2\bin\Debug\net5.0\Ex1 Aula2.exe
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex1 Aula2\Ex1 Aula2\bin\Debug\net5.0\Ex1 Aula2.deps.json
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex1 Aula2\Ex1 Aula2\bin\Debug\net5.0\Ex1 Aula2.runtimeconfig.json
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex1 Aula2\Ex1 Aula2\bin\Debug\net5.0\Ex1 Aula2.runtimeconfig.dev.json
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex1 Aula2\Ex1 Aula2\bin\Debug\net5.0\Ex1 Aula2.dll
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex1 Aula2\Ex1 Aula2\bin\Debug\net5.0\ref\Ex1 Aula2.dll
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex1 Aula2\Ex1 Aula2\bin\Debug\net5.0\Ex1 Aula2.pdb
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex1 Aula2\Ex1 Aula2\obj\Debug\net5.0\Ex1 Aula2.csproj.AssemblyReference.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex1 Aula2\Ex1 Aula2\obj\Debug\net5.0\Ex1 Aula2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex1 Aula2\Ex1 Aula2\obj\Debug\net5.0\Ex1 Aula2.AssemblyInfoInputs.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex1 Aula2\Ex1 Aula2\obj\Debug\net5.0\Ex1 Aula2.AssemblyInfo.cs
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex1 Aula2\Ex1 Aula2\obj\Debug\net5.0\Ex1 Aula2.csproj.CoreCompileInputs.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex1 Aula2\Ex1 Aula2\obj\Debug\net5.0\Ex1 Aula2.dll
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex1 Aula2\Ex1 Aula2\obj\Debug\net5.0\ref\Ex1 Aula2.dll
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex1 Aula2\Ex1 Aula2\obj\Debug\net5.0\Ex1 Aula2.pdb
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex1 Aula2\Ex1 Aula2\obj\Debug\net5.0\Ex1 Aula2.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex de fixacao - Salario\Ex de fixacao - Salario\bin\Debug\net5.0\Ex de fixacao - Salario.exe
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex de fixacao - Salario\Ex de fixacao - Salario\bin\Debug\net5.0\Ex de fixacao - Salario.deps.json
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex de fixacao - Salario\Ex de fixacao - Salario\bin\Debug\net5.0\Ex de fixacao - Salario.runtimeconfig.json
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex de fixacao - Salario\Ex de fixacao - Salario\bin\Debug\net5.0\Ex de fixacao - Salario.runtimeconfig.dev.json
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex de fixacao - Salario\Ex de fixacao - Salario\bin\Debug\net5.0\Ex de fixacao - Salario.dll
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex de fixacao - Salario\Ex de fixacao - Salario\bin\Debug\net5.0\Ex de fixacao - Salario.pdb
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex de fixacao - Salario\Ex de fixacao - Salario\obj\Debug\net5.0\Ex de fixacao - Salario.csproj.AssemblyReference.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex de fixacao - Salario\Ex de fixacao - Salario\obj\Debug\net5.0\Ex de fixacao - Salario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex de fixacao - Salario\Ex de fixacao - Salario\obj\Debug\net5.0\Ex de fixacao - Salario.AssemblyInfoInputs.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex de fixacao - Salario\Ex de fixacao - Salario\obj\Debug\net5.0\Ex de fixacao - Salario.AssemblyInfo.cs
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex de fixacao - Salario\Ex de fixacao - Salario\obj\Debug\net5.0\Ex de fixacao - Salario.csproj.CoreCompileInputs.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex de fixacao - Salario\Ex de fixacao - Salario\obj\Debug\net5.0\Ex de fixacao - Salario.dll
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex de fixacao - Salario\Ex de fixacao - Salario\obj\Debug\net5.0\refint\Ex de fixacao - Salario.dll
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex de fixacao - Salario\Ex de fixacao - Salario\obj\Debug\net5.0\Ex de fixacao - Salario.pdb
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex de fixacao - Salario\Ex de fixacao - Salario\obj\Debug\net5.0\Ex de fixacao - Salario.genruntimeconfig.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Ex de fixacao - Salario\Ex de fixacao - Salario\obj\Debug\net5.0\ref\Ex de fixacao - Salario.dll

@@ -1,0 +1,16 @@
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Generics PART 1\Generics PART 1\bin\Debug\net5.0\Generics PART 1.exe
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Generics PART 1\Generics PART 1\bin\Debug\net5.0\Generics PART 1.deps.json
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Generics PART 1\Generics PART 1\bin\Debug\net5.0\Generics PART 1.runtimeconfig.json
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Generics PART 1\Generics PART 1\bin\Debug\net5.0\Generics PART 1.runtimeconfig.dev.json
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Generics PART 1\Generics PART 1\bin\Debug\net5.0\Generics PART 1.dll
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Generics PART 1\Generics PART 1\bin\Debug\net5.0\Generics PART 1.pdb
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Generics PART 1\Generics PART 1\obj\Debug\net5.0\Generics PART 1.csproj.AssemblyReference.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Generics PART 1\Generics PART 1\obj\Debug\net5.0\Generics PART 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Generics PART 1\Generics PART 1\obj\Debug\net5.0\Generics PART 1.AssemblyInfoInputs.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Generics PART 1\Generics PART 1\obj\Debug\net5.0\Generics PART 1.AssemblyInfo.cs
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Generics PART 1\Generics PART 1\obj\Debug\net5.0\Generics PART 1.csproj.CoreCompileInputs.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Generics PART 1\Generics PART 1\obj\Debug\net5.0\Generics PART 1.dll
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Generics PART 1\Generics PART 1\obj\Debug\net5.0\refint\Generics PART 1.dll
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Generics PART 1\Generics PART 1\obj\Debug\net5.0\Generics PART 1.pdb
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Generics PART 1\Generics PART 1\obj\Debug\net5.0\Generics PART 1.genruntimeconfig.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Generics PART 1\Generics PART 1\obj\Debug\net5.0\ref\Generics PART 1.dll

@@ -1,0 +1,143 @@
+//Exercício prático de OOP Curso em Vídeo #05a
+//Anotações feitas durante as Aulas teóricas apenas para registrar o conteúdo. Não houve execução do programa.
+//A linguagem utilizada é C# porém com algumas áreas onde estão apenas sendo copiadas conforme os slides das aulas
+
+Classe ContaBanco {
+	
+//Atributos
+	publico numConta: Inteiro
+	protegido tipo: Caractere
+	privado dono: Caractere
+	privado saldo: Real
+	privado status: Logico
+
+//Métodos especiais
+
+	publico Metodo Construtor()
+		saldo = 0;
+		status = falso;
+	
+	publico Metodo setNumConta(n:Inteiro)
+		numConta = n;
+	
+	publico Metodo getNumConta(n:Inteiro)
+		return numConta;
+
+	publico Metodo setTipo(t:Caractere)
+		tipo = t;
+
+	publico Metodo getTipo(t:Caractere)
+		return tipo;
+
+	publico Metodo setDono(d:Caractere)
+		dono = d;
+
+	publico Metodo getDono(d:Caractere)
+		return dono;
+
+	privado Metodo setSaldo(s:Real)
+		saldo = s;
+
+	privado Metodo getSaldo(s:Real)
+		return saldo;
+
+	privado Metodo setStatus(st:Logico)
+		status = falso;
+
+	privado Metodo getStatus(st:Logico)
+		return status;
+
+//Métodos
+	//Abrir conta
+	publico Metodo abrirConta(t:Caractere)
+		setTipo(t)
+		setStatus(verdadeiro)
+	if (t = "CC") {
+		saldo = 50;
+}
+	else if (t = "CP") {
+		saldo = 150;
+}
+	//Fechar conta
+	publico Metodo fecharConta() 
+	if (saldo > 0) {
+		Escreva("Conta com dinheiro");
+}
+	else if (saldo < 0) {
+		Escreva("Conta em débito");
+}
+	else {
+		setStatus(false);
+}
+
+	//Depositar
+	publico Metodo depositar(v:Real)
+	if (status = verdadeiro) {
+		setSaldo(getSaldo() + v);
+}
+	else if {
+		Escreva("Impossível Depositar")
+}
+
+	//Sacar
+	publico Metodo sacar(s:Real)
+	if (status = verdadeiro) {
+		if (saldo > s) {
+			setSaldo(getSaldo() - s);
+	}
+}	
+
+	//Pagar Mensalidade
+	publico Metodo pagarMensal()
+	int v;
+	if (tipo = "CC") {
+		v = 12;
+}
+	else if (tipo = "CP") {
+		v = 20;
+}
+	if (status = verdadeiro) {
+		if (saldo > v) {
+			saldo = saldo - v;	
+	}
+	else {
+		Escreva ("Saldo insuficiente")
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+} FimClasse

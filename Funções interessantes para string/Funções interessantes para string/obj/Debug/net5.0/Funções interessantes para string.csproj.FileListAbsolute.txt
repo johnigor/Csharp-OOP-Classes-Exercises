@@ -1,0 +1,16 @@
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Funções interessantes para string\Funções interessantes para string\bin\Debug\net5.0\Funções interessantes para string.exe
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Funções interessantes para string\Funções interessantes para string\bin\Debug\net5.0\Funções interessantes para string.deps.json
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Funções interessantes para string\Funções interessantes para string\bin\Debug\net5.0\Funções interessantes para string.runtimeconfig.json
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Funções interessantes para string\Funções interessantes para string\bin\Debug\net5.0\Funções interessantes para string.runtimeconfig.dev.json
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Funções interessantes para string\Funções interessantes para string\bin\Debug\net5.0\Funções interessantes para string.dll
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Funções interessantes para string\Funções interessantes para string\bin\Debug\net5.0\Funções interessantes para string.pdb
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Funções interessantes para string\Funções interessantes para string\obj\Debug\net5.0\Funções interessantes para string.csproj.AssemblyReference.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Funções interessantes para string\Funções interessantes para string\obj\Debug\net5.0\Funções interessantes para string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Funções interessantes para string\Funções interessantes para string\obj\Debug\net5.0\Funções interessantes para string.AssemblyInfoInputs.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Funções interessantes para string\Funções interessantes para string\obj\Debug\net5.0\Funções interessantes para string.AssemblyInfo.cs
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Funções interessantes para string\Funções interessantes para string\obj\Debug\net5.0\Funções interessantes para string.csproj.CoreCompileInputs.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Funções interessantes para string\Funções interessantes para string\obj\Debug\net5.0\Funções interessantes para string.dll
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Funções interessantes para string\Funções interessantes para string\obj\Debug\net5.0\refint\Funções interessantes para string.dll
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Funções interessantes para string\Funções interessantes para string\obj\Debug\net5.0\Funções interessantes para string.pdb
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Funções interessantes para string\Funções interessantes para string\obj\Debug\net5.0\Funções interessantes para string.genruntimeconfig.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Funções interessantes para string\Funções interessantes para string\obj\Debug\net5.0\ref\Funções interessantes para string.dll

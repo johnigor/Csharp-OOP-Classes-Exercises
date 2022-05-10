@@ -1,0 +1,16 @@
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exemplo Construtor\Exemplo Construtor\bin\Debug\net5.0\Exemplo Construtor.exe
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exemplo Construtor\Exemplo Construtor\bin\Debug\net5.0\Exemplo Construtor.deps.json
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exemplo Construtor\Exemplo Construtor\bin\Debug\net5.0\Exemplo Construtor.runtimeconfig.json
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exemplo Construtor\Exemplo Construtor\bin\Debug\net5.0\Exemplo Construtor.runtimeconfig.dev.json
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exemplo Construtor\Exemplo Construtor\bin\Debug\net5.0\Exemplo Construtor.dll
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exemplo Construtor\Exemplo Construtor\bin\Debug\net5.0\Exemplo Construtor.pdb
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exemplo Construtor\Exemplo Construtor\obj\Debug\net5.0\Exemplo Construtor.csproj.AssemblyReference.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exemplo Construtor\Exemplo Construtor\obj\Debug\net5.0\Exemplo Construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exemplo Construtor\Exemplo Construtor\obj\Debug\net5.0\Exemplo Construtor.AssemblyInfoInputs.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exemplo Construtor\Exemplo Construtor\obj\Debug\net5.0\Exemplo Construtor.AssemblyInfo.cs
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exemplo Construtor\Exemplo Construtor\obj\Debug\net5.0\Exemplo Construtor.csproj.CoreCompileInputs.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exemplo Construtor\Exemplo Construtor\obj\Debug\net5.0\Exemplo Construtor.dll
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exemplo Construtor\Exemplo Construtor\obj\Debug\net5.0\refint\Exemplo Construtor.dll
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exemplo Construtor\Exemplo Construtor\obj\Debug\net5.0\Exemplo Construtor.pdb
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exemplo Construtor\Exemplo Construtor\obj\Debug\net5.0\Exemplo Construtor.genruntimeconfig.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exemplo Construtor\Exemplo Construtor\obj\Debug\net5.0\ref\Exemplo Construtor.dll

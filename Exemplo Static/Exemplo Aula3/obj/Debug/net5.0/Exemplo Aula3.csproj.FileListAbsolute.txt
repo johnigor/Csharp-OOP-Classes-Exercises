@@ -1,0 +1,16 @@
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exemplo Aula3\Exemplo Aula3\obj\Debug\net5.0\Exemplo Aula3.csproj.AssemblyReference.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exemplo Aula3\Exemplo Aula3\obj\Debug\net5.0\Exemplo Aula3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exemplo Aula3\Exemplo Aula3\obj\Debug\net5.0\Exemplo Aula3.AssemblyInfoInputs.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exemplo Aula3\Exemplo Aula3\obj\Debug\net5.0\Exemplo Aula3.AssemblyInfo.cs
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exemplo Aula3\Exemplo Aula3\obj\Debug\net5.0\Exemplo Aula3.csproj.CoreCompileInputs.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exemplo Aula3\Exemplo Aula3\bin\Debug\net5.0\Exemplo Aula3.exe
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exemplo Aula3\Exemplo Aula3\bin\Debug\net5.0\Exemplo Aula3.deps.json
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exemplo Aula3\Exemplo Aula3\bin\Debug\net5.0\Exemplo Aula3.runtimeconfig.json
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exemplo Aula3\Exemplo Aula3\bin\Debug\net5.0\Exemplo Aula3.runtimeconfig.dev.json
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exemplo Aula3\Exemplo Aula3\bin\Debug\net5.0\Exemplo Aula3.dll
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exemplo Aula3\Exemplo Aula3\bin\Debug\net5.0\ref\Exemplo Aula3.dll
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exemplo Aula3\Exemplo Aula3\bin\Debug\net5.0\Exemplo Aula3.pdb
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exemplo Aula3\Exemplo Aula3\obj\Debug\net5.0\Exemplo Aula3.dll
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exemplo Aula3\Exemplo Aula3\obj\Debug\net5.0\ref\Exemplo Aula3.dll
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exemplo Aula3\Exemplo Aula3\obj\Debug\net5.0\Exemplo Aula3.pdb
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exemplo Aula3\Exemplo Aula3\obj\Debug\net5.0\Exemplo Aula3.genruntimeconfig.cache
