@@ -1,0 +1,16 @@
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\OperadoresAritmeticos\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net5.0\OperadoresAritmeticos.exe
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\OperadoresAritmeticos\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net5.0\OperadoresAritmeticos.deps.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\OperadoresAritmeticos\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net5.0\OperadoresAritmeticos.runtimeconfig.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\OperadoresAritmeticos\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net5.0\OperadoresAritmeticos.runtimeconfig.dev.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\OperadoresAritmeticos\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net5.0\OperadoresAritmeticos.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\OperadoresAritmeticos\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net5.0\OperadoresAritmeticos.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\OperadoresAritmeticos\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net5.0\OperadoresAritmeticos.csproj.AssemblyReference.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\OperadoresAritmeticos\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net5.0\OperadoresAritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\OperadoresAritmeticos\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net5.0\OperadoresAritmeticos.AssemblyInfoInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\OperadoresAritmeticos\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net5.0\OperadoresAritmeticos.AssemblyInfo.cs
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\OperadoresAritmeticos\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net5.0\OperadoresAritmeticos.csproj.CoreCompileInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\OperadoresAritmeticos\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net5.0\OperadoresAritmeticos.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\OperadoresAritmeticos\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net5.0\refint\OperadoresAritmeticos.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\OperadoresAritmeticos\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net5.0\OperadoresAritmeticos.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\OperadoresAritmeticos\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net5.0\OperadoresAritmeticos.genruntimeconfig.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\OperadoresAritmeticos\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net5.0\ref\OperadoresAritmeticos.dll
