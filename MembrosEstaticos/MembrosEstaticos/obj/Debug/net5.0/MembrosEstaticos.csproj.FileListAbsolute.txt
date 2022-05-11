@@ -1,0 +1,16 @@
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\MembrosEstaticos\MembrosEstaticos\bin\Debug\net5.0\MembrosEstaticos.exe
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\MembrosEstaticos\MembrosEstaticos\bin\Debug\net5.0\MembrosEstaticos.deps.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\MembrosEstaticos\MembrosEstaticos\bin\Debug\net5.0\MembrosEstaticos.runtimeconfig.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\MembrosEstaticos\MembrosEstaticos\bin\Debug\net5.0\MembrosEstaticos.runtimeconfig.dev.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\MembrosEstaticos\MembrosEstaticos\bin\Debug\net5.0\MembrosEstaticos.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\MembrosEstaticos\MembrosEstaticos\bin\Debug\net5.0\MembrosEstaticos.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net5.0\MembrosEstaticos.csproj.AssemblyReference.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net5.0\MembrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net5.0\MembrosEstaticos.AssemblyInfoInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net5.0\MembrosEstaticos.AssemblyInfo.cs
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net5.0\MembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net5.0\MembrosEstaticos.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net5.0\refint\MembrosEstaticos.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net5.0\MembrosEstaticos.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net5.0\MembrosEstaticos.genruntimeconfig.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net5.0\ref\MembrosEstaticos.dll
