@@ -1,0 +1,16 @@
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Ep48_ExFixacao\Ep48_ExFixacao\bin\Debug\net5.0\Ep48_ExFixacao.exe
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Ep48_ExFixacao\Ep48_ExFixacao\bin\Debug\net5.0\Ep48_ExFixacao.deps.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Ep48_ExFixacao\Ep48_ExFixacao\bin\Debug\net5.0\Ep48_ExFixacao.runtimeconfig.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Ep48_ExFixacao\Ep48_ExFixacao\bin\Debug\net5.0\Ep48_ExFixacao.runtimeconfig.dev.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Ep48_ExFixacao\Ep48_ExFixacao\bin\Debug\net5.0\Ep48_ExFixacao.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Ep48_ExFixacao\Ep48_ExFixacao\bin\Debug\net5.0\Ep48_ExFixacao.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Ep48_ExFixacao\Ep48_ExFixacao\obj\Debug\net5.0\Ep48_ExFixacao.csproj.AssemblyReference.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Ep48_ExFixacao\Ep48_ExFixacao\obj\Debug\net5.0\Ep48_ExFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Ep48_ExFixacao\Ep48_ExFixacao\obj\Debug\net5.0\Ep48_ExFixacao.AssemblyInfoInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Ep48_ExFixacao\Ep48_ExFixacao\obj\Debug\net5.0\Ep48_ExFixacao.AssemblyInfo.cs
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Ep48_ExFixacao\Ep48_ExFixacao\obj\Debug\net5.0\Ep48_ExFixacao.csproj.CoreCompileInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Ep48_ExFixacao\Ep48_ExFixacao\obj\Debug\net5.0\Ep48_ExFixacao.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Ep48_ExFixacao\Ep48_ExFixacao\obj\Debug\net5.0\refint\Ep48_ExFixacao.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Ep48_ExFixacao\Ep48_ExFixacao\obj\Debug\net5.0\Ep48_ExFixacao.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Ep48_ExFixacao\Ep48_ExFixacao\obj\Debug\net5.0\Ep48_ExFixacao.genruntimeconfig.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Ep48_ExFixacao\Ep48_ExFixacao\obj\Debug\net5.0\ref\Ep48_ExFixacao.dll
