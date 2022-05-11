@@ -1,0 +1,16 @@
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Ep45_Ex2\Ep45_Ex2\bin\Debug\net5.0\Ep45_Ex2.exe
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Ep45_Ex2\Ep45_Ex2\bin\Debug\net5.0\Ep45_Ex2.deps.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Ep45_Ex2\Ep45_Ex2\bin\Debug\net5.0\Ep45_Ex2.runtimeconfig.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Ep45_Ex2\Ep45_Ex2\bin\Debug\net5.0\Ep45_Ex2.runtimeconfig.dev.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Ep45_Ex2\Ep45_Ex2\bin\Debug\net5.0\Ep45_Ex2.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Ep45_Ex2\Ep45_Ex2\bin\Debug\net5.0\Ep45_Ex2.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Ep45_Ex2\Ep45_Ex2\obj\Debug\net5.0\Ep45_Ex2.csproj.AssemblyReference.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Ep45_Ex2\Ep45_Ex2\obj\Debug\net5.0\Ep45_Ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Ep45_Ex2\Ep45_Ex2\obj\Debug\net5.0\Ep45_Ex2.AssemblyInfoInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Ep45_Ex2\Ep45_Ex2\obj\Debug\net5.0\Ep45_Ex2.AssemblyInfo.cs
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Ep45_Ex2\Ep45_Ex2\obj\Debug\net5.0\Ep45_Ex2.csproj.CoreCompileInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Ep45_Ex2\Ep45_Ex2\obj\Debug\net5.0\Ep45_Ex2.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Ep45_Ex2\Ep45_Ex2\obj\Debug\net5.0\refint\Ep45_Ex2.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Ep45_Ex2\Ep45_Ex2\obj\Debug\net5.0\Ep45_Ex2.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Ep45_Ex2\Ep45_Ex2\obj\Debug\net5.0\Ep45_Ex2.genruntimeconfig.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Ep45_Ex2\Ep45_Ex2\obj\Debug\net5.0\ref\Ep45_Ex2.dll

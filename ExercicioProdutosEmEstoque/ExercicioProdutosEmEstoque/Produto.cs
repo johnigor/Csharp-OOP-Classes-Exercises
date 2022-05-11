@@ -14,9 +14,25 @@ namespace ExercicioProdutosEmEstoque
             return Quantidade * Preco;
         }
 
+        public void AdicionarProdutos(int quantidade)
+        {
+            Quantidade += quantidade;
+        }
+
+        public void RemoverProdutos(int quantidade)
+        {
+            Quantidade -= quantidade;
+        }
+
         public override string ToString()
         {
-            return Nome + ", $ " + Preco.ToString("F2", CultureInfo.InvariantCulture);
+            return Nome
+                + ", R$"
+                + Preco.ToString("F2", CultureInfo.InvariantCulture)
+                + ", "
+                + Quantidade
+                + " unidades, Total: R$"
+                + ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);
         }
     }
 }
