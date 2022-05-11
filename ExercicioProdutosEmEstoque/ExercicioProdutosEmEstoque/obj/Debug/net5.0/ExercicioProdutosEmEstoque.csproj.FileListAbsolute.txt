@@ -1,0 +1,16 @@
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\ExercicioProdutosEmEstoque\ExercicioProdutosEmEstoque\bin\Debug\net5.0\ExercicioProdutosEmEstoque.exe
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\ExercicioProdutosEmEstoque\ExercicioProdutosEmEstoque\bin\Debug\net5.0\ExercicioProdutosEmEstoque.deps.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\ExercicioProdutosEmEstoque\ExercicioProdutosEmEstoque\bin\Debug\net5.0\ExercicioProdutosEmEstoque.runtimeconfig.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\ExercicioProdutosEmEstoque\ExercicioProdutosEmEstoque\bin\Debug\net5.0\ExercicioProdutosEmEstoque.runtimeconfig.dev.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\ExercicioProdutosEmEstoque\ExercicioProdutosEmEstoque\bin\Debug\net5.0\ExercicioProdutosEmEstoque.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\ExercicioProdutosEmEstoque\ExercicioProdutosEmEstoque\bin\Debug\net5.0\ExercicioProdutosEmEstoque.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\ExercicioProdutosEmEstoque\ExercicioProdutosEmEstoque\obj\Debug\net5.0\ExercicioProdutosEmEstoque.csproj.AssemblyReference.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\ExercicioProdutosEmEstoque\ExercicioProdutosEmEstoque\obj\Debug\net5.0\ExercicioProdutosEmEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\ExercicioProdutosEmEstoque\ExercicioProdutosEmEstoque\obj\Debug\net5.0\ExercicioProdutosEmEstoque.AssemblyInfoInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\ExercicioProdutosEmEstoque\ExercicioProdutosEmEstoque\obj\Debug\net5.0\ExercicioProdutosEmEstoque.AssemblyInfo.cs
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\ExercicioProdutosEmEstoque\ExercicioProdutosEmEstoque\obj\Debug\net5.0\ExercicioProdutosEmEstoque.csproj.CoreCompileInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\ExercicioProdutosEmEstoque\ExercicioProdutosEmEstoque\obj\Debug\net5.0\ExercicioProdutosEmEstoque.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\ExercicioProdutosEmEstoque\ExercicioProdutosEmEstoque\obj\Debug\net5.0\refint\ExercicioProdutosEmEstoque.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\ExercicioProdutosEmEstoque\ExercicioProdutosEmEstoque\obj\Debug\net5.0\ExercicioProdutosEmEstoque.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\ExercicioProdutosEmEstoque\ExercicioProdutosEmEstoque\obj\Debug\net5.0\ExercicioProdutosEmEstoque.genruntimeconfig.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\ExercicioProdutosEmEstoque\ExercicioProdutosEmEstoque\obj\Debug\net5.0\ref\ExercicioProdutosEmEstoque.dll

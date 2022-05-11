@@ -1,0 +1,16 @@
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Funcao(Sintaxe)\Funcao(Sintaxe)\bin\Debug\net5.0\Funcao(Sintaxe).exe
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Funcao(Sintaxe)\Funcao(Sintaxe)\bin\Debug\net5.0\Funcao(Sintaxe).deps.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Funcao(Sintaxe)\Funcao(Sintaxe)\bin\Debug\net5.0\Funcao(Sintaxe).runtimeconfig.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Funcao(Sintaxe)\Funcao(Sintaxe)\bin\Debug\net5.0\Funcao(Sintaxe).runtimeconfig.dev.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Funcao(Sintaxe)\Funcao(Sintaxe)\bin\Debug\net5.0\Funcao(Sintaxe).dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Funcao(Sintaxe)\Funcao(Sintaxe)\bin\Debug\net5.0\Funcao(Sintaxe).pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Funcao(Sintaxe)\Funcao(Sintaxe)\obj\Debug\net5.0\Funcao(Sintaxe).csproj.AssemblyReference.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Funcao(Sintaxe)\Funcao(Sintaxe)\obj\Debug\net5.0\Funcao(Sintaxe).GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Funcao(Sintaxe)\Funcao(Sintaxe)\obj\Debug\net5.0\Funcao(Sintaxe).AssemblyInfoInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Funcao(Sintaxe)\Funcao(Sintaxe)\obj\Debug\net5.0\Funcao(Sintaxe).AssemblyInfo.cs
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Funcao(Sintaxe)\Funcao(Sintaxe)\obj\Debug\net5.0\Funcao(Sintaxe).csproj.CoreCompileInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Funcao(Sintaxe)\Funcao(Sintaxe)\obj\Debug\net5.0\Funcao(Sintaxe).dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Funcao(Sintaxe)\Funcao(Sintaxe)\obj\Debug\net5.0\refint\Funcao(Sintaxe).dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Funcao(Sintaxe)\Funcao(Sintaxe)\obj\Debug\net5.0\Funcao(Sintaxe).pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Funcao(Sintaxe)\Funcao(Sintaxe)\obj\Debug\net5.0\Funcao(Sintaxe).genruntimeconfig.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Funcao(Sintaxe)\Funcao(Sintaxe)\obj\Debug\net5.0\ref\Funcao(Sintaxe).dll

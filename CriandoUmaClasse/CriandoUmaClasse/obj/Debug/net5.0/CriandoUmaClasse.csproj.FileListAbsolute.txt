@@ -1,0 +1,16 @@
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\CriandoUmaClasse\CriandoUmaClasse\bin\Debug\net5.0\CriandoUmaClasse.exe
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\CriandoUmaClasse\CriandoUmaClasse\bin\Debug\net5.0\CriandoUmaClasse.deps.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\CriandoUmaClasse\CriandoUmaClasse\bin\Debug\net5.0\CriandoUmaClasse.runtimeconfig.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\CriandoUmaClasse\CriandoUmaClasse\bin\Debug\net5.0\CriandoUmaClasse.runtimeconfig.dev.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\CriandoUmaClasse\CriandoUmaClasse\bin\Debug\net5.0\CriandoUmaClasse.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\CriandoUmaClasse\CriandoUmaClasse\bin\Debug\net5.0\CriandoUmaClasse.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\CriandoUmaClasse\CriandoUmaClasse\obj\Debug\net5.0\CriandoUmaClasse.csproj.AssemblyReference.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\CriandoUmaClasse\CriandoUmaClasse\obj\Debug\net5.0\CriandoUmaClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\CriandoUmaClasse\CriandoUmaClasse\obj\Debug\net5.0\CriandoUmaClasse.AssemblyInfoInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\CriandoUmaClasse\CriandoUmaClasse\obj\Debug\net5.0\CriandoUmaClasse.AssemblyInfo.cs
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\CriandoUmaClasse\CriandoUmaClasse\obj\Debug\net5.0\CriandoUmaClasse.csproj.CoreCompileInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\CriandoUmaClasse\CriandoUmaClasse\obj\Debug\net5.0\CriandoUmaClasse.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\CriandoUmaClasse\CriandoUmaClasse\obj\Debug\net5.0\refint\CriandoUmaClasse.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\CriandoUmaClasse\CriandoUmaClasse\obj\Debug\net5.0\CriandoUmaClasse.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\CriandoUmaClasse\CriandoUmaClasse\obj\Debug\net5.0\CriandoUmaClasse.genruntimeconfig.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\CriandoUmaClasse\CriandoUmaClasse\obj\Debug\net5.0\ref\CriandoUmaClasse.dll
