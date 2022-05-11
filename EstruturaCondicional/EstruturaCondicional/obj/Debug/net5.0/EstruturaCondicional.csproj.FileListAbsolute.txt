@@ -1,0 +1,16 @@
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\EstruturaCondicional\EstruturaCondicional\bin\Debug\net5.0\EstruturaCondicional.exe
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\EstruturaCondicional\EstruturaCondicional\bin\Debug\net5.0\EstruturaCondicional.deps.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\EstruturaCondicional\EstruturaCondicional\bin\Debug\net5.0\EstruturaCondicional.runtimeconfig.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\EstruturaCondicional\EstruturaCondicional\bin\Debug\net5.0\EstruturaCondicional.runtimeconfig.dev.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\EstruturaCondicional\EstruturaCondicional\bin\Debug\net5.0\EstruturaCondicional.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\EstruturaCondicional\EstruturaCondicional\bin\Debug\net5.0\EstruturaCondicional.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\EstruturaCondicional\EstruturaCondicional\obj\Debug\net5.0\EstruturaCondicional.csproj.AssemblyReference.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\EstruturaCondicional\EstruturaCondicional\obj\Debug\net5.0\EstruturaCondicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\EstruturaCondicional\EstruturaCondicional\obj\Debug\net5.0\EstruturaCondicional.AssemblyInfoInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\EstruturaCondicional\EstruturaCondicional\obj\Debug\net5.0\EstruturaCondicional.AssemblyInfo.cs
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\EstruturaCondicional\EstruturaCondicional\obj\Debug\net5.0\EstruturaCondicional.csproj.CoreCompileInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\EstruturaCondicional\EstruturaCondicional\obj\Debug\net5.0\EstruturaCondicional.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\EstruturaCondicional\EstruturaCondicional\obj\Debug\net5.0\refint\EstruturaCondicional.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\EstruturaCondicional\EstruturaCondicional\obj\Debug\net5.0\EstruturaCondicional.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\EstruturaCondicional\EstruturaCondicional\obj\Debug\net5.0\EstruturaCondicional.genruntimeconfig.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\EstruturaCondicional\EstruturaCondicional\obj\Debug\net5.0\ref\EstruturaCondicional.dll

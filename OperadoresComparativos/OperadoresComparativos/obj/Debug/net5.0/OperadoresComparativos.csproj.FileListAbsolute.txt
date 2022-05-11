@@ -1,0 +1,16 @@
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\OperadoresComparativos\OperadoresComparativos\bin\Debug\net5.0\OperadoresComparativos.exe
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\OperadoresComparativos\OperadoresComparativos\bin\Debug\net5.0\OperadoresComparativos.deps.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\OperadoresComparativos\OperadoresComparativos\bin\Debug\net5.0\OperadoresComparativos.runtimeconfig.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\OperadoresComparativos\OperadoresComparativos\bin\Debug\net5.0\OperadoresComparativos.runtimeconfig.dev.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\OperadoresComparativos\OperadoresComparativos\bin\Debug\net5.0\OperadoresComparativos.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\OperadoresComparativos\OperadoresComparativos\bin\Debug\net5.0\OperadoresComparativos.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net5.0\OperadoresComparativos.csproj.AssemblyReference.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net5.0\OperadoresComparativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net5.0\OperadoresComparativos.AssemblyInfoInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net5.0\OperadoresComparativos.AssemblyInfo.cs
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net5.0\OperadoresComparativos.csproj.CoreCompileInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net5.0\OperadoresComparativos.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net5.0\refint\OperadoresComparativos.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net5.0\OperadoresComparativos.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net5.0\OperadoresComparativos.genruntimeconfig.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net5.0\ref\OperadoresComparativos.dll
