@@ -1,0 +1,16 @@
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\DesafioContaBancaria\DesafioContaBancaria\bin\Debug\net5.0\DesafioContaBancaria.exe
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\DesafioContaBancaria\DesafioContaBancaria\bin\Debug\net5.0\DesafioContaBancaria.deps.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\DesafioContaBancaria\DesafioContaBancaria\bin\Debug\net5.0\DesafioContaBancaria.runtimeconfig.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\DesafioContaBancaria\DesafioContaBancaria\bin\Debug\net5.0\DesafioContaBancaria.runtimeconfig.dev.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\DesafioContaBancaria\DesafioContaBancaria\bin\Debug\net5.0\DesafioContaBancaria.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\DesafioContaBancaria\DesafioContaBancaria\bin\Debug\net5.0\DesafioContaBancaria.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\DesafioContaBancaria\DesafioContaBancaria\obj\Debug\net5.0\DesafioContaBancaria.csproj.AssemblyReference.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\DesafioContaBancaria\DesafioContaBancaria\obj\Debug\net5.0\DesafioContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\DesafioContaBancaria\DesafioContaBancaria\obj\Debug\net5.0\DesafioContaBancaria.AssemblyInfoInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\DesafioContaBancaria\DesafioContaBancaria\obj\Debug\net5.0\DesafioContaBancaria.AssemblyInfo.cs
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\DesafioContaBancaria\DesafioContaBancaria\obj\Debug\net5.0\DesafioContaBancaria.csproj.CoreCompileInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\DesafioContaBancaria\DesafioContaBancaria\obj\Debug\net5.0\DesafioContaBancaria.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\DesafioContaBancaria\DesafioContaBancaria\obj\Debug\net5.0\refint\DesafioContaBancaria.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\DesafioContaBancaria\DesafioContaBancaria\obj\Debug\net5.0\DesafioContaBancaria.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\DesafioContaBancaria\DesafioContaBancaria\obj\Debug\net5.0\DesafioContaBancaria.genruntimeconfig.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\DesafioContaBancaria\DesafioContaBancaria\obj\Debug\net5.0\ref\DesafioContaBancaria.dll
