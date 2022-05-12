@@ -1,0 +1,16 @@
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\Construtores\Construtores\obj\Debug\net5.0\Construtores.csproj.AssemblyReference.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\Construtores\Construtores\obj\Debug\net5.0\Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\Construtores\Construtores\obj\Debug\net5.0\Construtores.AssemblyInfoInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\Construtores\Construtores\obj\Debug\net5.0\Construtores.AssemblyInfo.cs
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\Construtores\Construtores\obj\Debug\net5.0\Construtores.csproj.CoreCompileInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\Construtores\Construtores\bin\Debug\net5.0\Construtores.exe
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\Construtores\Construtores\bin\Debug\net5.0\Construtores.deps.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\Construtores\Construtores\bin\Debug\net5.0\Construtores.runtimeconfig.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\Construtores\Construtores\bin\Debug\net5.0\Construtores.runtimeconfig.dev.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\Construtores\Construtores\bin\Debug\net5.0\Construtores.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\Construtores\Construtores\bin\Debug\net5.0\Construtores.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\Construtores\Construtores\obj\Debug\net5.0\Construtores.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\Construtores\Construtores\obj\Debug\net5.0\refint\Construtores.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\Construtores\Construtores\obj\Debug\net5.0\Construtores.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\Construtores\Construtores\obj\Debug\net5.0\Construtores.genruntimeconfig.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\Construtores\Construtores\obj\Debug\net5.0\ref\Construtores.dll

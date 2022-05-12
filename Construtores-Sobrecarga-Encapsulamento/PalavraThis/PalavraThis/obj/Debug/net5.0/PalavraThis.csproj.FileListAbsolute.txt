@@ -1,0 +1,16 @@
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\PalavraThis\PalavraThis\bin\Debug\net5.0\PalavraThis.exe
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\PalavraThis\PalavraThis\bin\Debug\net5.0\PalavraThis.deps.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\PalavraThis\PalavraThis\bin\Debug\net5.0\PalavraThis.runtimeconfig.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\PalavraThis\PalavraThis\bin\Debug\net5.0\PalavraThis.runtimeconfig.dev.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\PalavraThis\PalavraThis\bin\Debug\net5.0\PalavraThis.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\PalavraThis\PalavraThis\bin\Debug\net5.0\PalavraThis.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\PalavraThis\PalavraThis\obj\Debug\net5.0\PalavraThis.csproj.AssemblyReference.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\PalavraThis\PalavraThis\obj\Debug\net5.0\PalavraThis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\PalavraThis\PalavraThis\obj\Debug\net5.0\PalavraThis.AssemblyInfoInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\PalavraThis\PalavraThis\obj\Debug\net5.0\PalavraThis.AssemblyInfo.cs
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\PalavraThis\PalavraThis\obj\Debug\net5.0\PalavraThis.csproj.CoreCompileInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\PalavraThis\PalavraThis\obj\Debug\net5.0\PalavraThis.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\PalavraThis\PalavraThis\obj\Debug\net5.0\refint\PalavraThis.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\PalavraThis\PalavraThis\obj\Debug\net5.0\PalavraThis.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\PalavraThis\PalavraThis\obj\Debug\net5.0\PalavraThis.genruntimeconfig.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\PalavraThis\PalavraThis\obj\Debug\net5.0\ref\PalavraThis.dll

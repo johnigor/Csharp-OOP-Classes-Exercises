@@ -16,6 +16,14 @@ namespace Exemplo_Construtor
             
             Produto p = new Produto(nome, preco);
 
+            //Sintaxe alternativa para instanciar o produto:
+            Produto p2 = new Produto
+            {
+                Nome = "TV",
+                Preco = 900.00,
+                Quantidade = 0
+            };
+
             Console.WriteLine();
             Console.WriteLine("Dados do produto: " + p);
 

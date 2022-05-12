@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Curso - Orientação a Objetos C#\\Aulas + Ex Fixação\\Exemplo Construtor\\Exemplo Construtor\\Exemplo Construtor.csproj": {}
+    "C:\\Curso_Udemy_OOP_CSHARP\\aulas-e-exercicios-oop-csharp\\Construtores-Sobrecarga-Encapsulamento\\Construtor-Sobrecarga\\Exemplo Construtor\\Exemplo Construtor.csproj": {}
   },
   "projects": {
-    "C:\\Curso - Orientação a Objetos C#\\Aulas + Ex Fixação\\Exemplo Construtor\\Exemplo Construtor\\Exemplo Construtor.csproj": {
+    "C:\\Curso_Udemy_OOP_CSHARP\\aulas-e-exercicios-oop-csharp\\Construtores-Sobrecarga-Encapsulamento\\Construtor-Sobrecarga\\Exemplo Construtor\\Exemplo Construtor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Curso - Orientação a Objetos C#\\Aulas + Ex Fixação\\Exemplo Construtor\\Exemplo Construtor\\Exemplo Construtor.csproj",
+        "projectUniqueName": "C:\\Curso_Udemy_OOP_CSHARP\\aulas-e-exercicios-oop-csharp\\Construtores-Sobrecarga-Encapsulamento\\Construtor-Sobrecarga\\Exemplo Construtor\\Exemplo Construtor.csproj",
         "projectName": "Exemplo Construtor",
-        "projectPath": "C:\\Curso - Orientação a Objetos C#\\Aulas + Ex Fixação\\Exemplo Construtor\\Exemplo Construtor\\Exemplo Construtor.csproj",
+        "projectPath": "C:\\Curso_Udemy_OOP_CSHARP\\aulas-e-exercicios-oop-csharp\\Construtores-Sobrecarga-Encapsulamento\\Construtor-Sobrecarga\\Exemplo Construtor\\Exemplo Construtor.csproj",
         "packagesPath": "C:\\Users\\fifa_\\.nuget\\packages\\",
-        "outputPath": "C:\\Curso - Orientação a Objetos C#\\Aulas + Ex Fixação\\Exemplo Construtor\\Exemplo Construtor\\obj\\",
+        "outputPath": "C:\\Curso_Udemy_OOP_CSHARP\\aulas-e-exercicios-oop-csharp\\Construtores-Sobrecarga-Encapsulamento\\Construtor-Sobrecarga\\Exemplo Construtor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

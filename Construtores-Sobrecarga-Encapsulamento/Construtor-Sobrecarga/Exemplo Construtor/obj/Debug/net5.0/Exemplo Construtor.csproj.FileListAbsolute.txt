@@ -14,3 +14,19 @@ C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exemplo Construtor\Exe
 C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exemplo Construtor\Exemplo Construtor\obj\Debug\net5.0\Exemplo Construtor.pdb
 C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exemplo Construtor\Exemplo Construtor\obj\Debug\net5.0\Exemplo Construtor.genruntimeconfig.cache
 C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Exemplo Construtor\Exemplo Construtor\obj\Debug\net5.0\ref\Exemplo Construtor.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\Construtor-Sobrecarga\Exemplo Construtor\bin\Debug\net5.0\Exemplo Construtor.exe
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\Construtor-Sobrecarga\Exemplo Construtor\bin\Debug\net5.0\Exemplo Construtor.deps.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\Construtor-Sobrecarga\Exemplo Construtor\bin\Debug\net5.0\Exemplo Construtor.runtimeconfig.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\Construtor-Sobrecarga\Exemplo Construtor\bin\Debug\net5.0\Exemplo Construtor.runtimeconfig.dev.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\Construtor-Sobrecarga\Exemplo Construtor\bin\Debug\net5.0\Exemplo Construtor.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\Construtor-Sobrecarga\Exemplo Construtor\bin\Debug\net5.0\Exemplo Construtor.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\Construtor-Sobrecarga\Exemplo Construtor\obj\Debug\net5.0\Exemplo Construtor.csproj.AssemblyReference.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\Construtor-Sobrecarga\Exemplo Construtor\obj\Debug\net5.0\Exemplo Construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\Construtor-Sobrecarga\Exemplo Construtor\obj\Debug\net5.0\Exemplo Construtor.AssemblyInfoInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\Construtor-Sobrecarga\Exemplo Construtor\obj\Debug\net5.0\Exemplo Construtor.AssemblyInfo.cs
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\Construtor-Sobrecarga\Exemplo Construtor\obj\Debug\net5.0\Exemplo Construtor.csproj.CoreCompileInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\Construtor-Sobrecarga\Exemplo Construtor\obj\Debug\net5.0\Exemplo Construtor.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\Construtor-Sobrecarga\Exemplo Construtor\obj\Debug\net5.0\refint\Exemplo Construtor.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\Construtor-Sobrecarga\Exemplo Construtor\obj\Debug\net5.0\Exemplo Construtor.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\Construtor-Sobrecarga\Exemplo Construtor\obj\Debug\net5.0\Exemplo Construtor.genruntimeconfig.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\Construtor-Sobrecarga\Exemplo Construtor\obj\Debug\net5.0\ref\Exemplo Construtor.dll

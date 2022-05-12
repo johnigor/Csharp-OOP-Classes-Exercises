@@ -1,0 +1,16 @@
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\AutoProperties\AutoProperties\bin\Debug\net5.0\AutoProperties.exe
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\AutoProperties\AutoProperties\bin\Debug\net5.0\AutoProperties.deps.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\AutoProperties\AutoProperties\bin\Debug\net5.0\AutoProperties.runtimeconfig.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\AutoProperties\AutoProperties\bin\Debug\net5.0\AutoProperties.runtimeconfig.dev.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\AutoProperties\AutoProperties\bin\Debug\net5.0\AutoProperties.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\AutoProperties\AutoProperties\bin\Debug\net5.0\AutoProperties.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\AutoProperties\AutoProperties\obj\Debug\net5.0\AutoProperties.csproj.AssemblyReference.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\AutoProperties\AutoProperties\obj\Debug\net5.0\AutoProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\AutoProperties\AutoProperties\obj\Debug\net5.0\AutoProperties.AssemblyInfoInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\AutoProperties\AutoProperties\obj\Debug\net5.0\AutoProperties.AssemblyInfo.cs
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\AutoProperties\AutoProperties\obj\Debug\net5.0\AutoProperties.csproj.CoreCompileInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\AutoProperties\AutoProperties\obj\Debug\net5.0\AutoProperties.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\AutoProperties\AutoProperties\obj\Debug\net5.0\refint\AutoProperties.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\AutoProperties\AutoProperties\obj\Debug\net5.0\AutoProperties.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\AutoProperties\AutoProperties\obj\Debug\net5.0\AutoProperties.genruntimeconfig.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Construtores-Sobrecarga-Encapsulamento\AutoProperties\AutoProperties\obj\Debug\net5.0\ref\AutoProperties.dll
