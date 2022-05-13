@@ -1,0 +1,16 @@
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\ModificadorRefOut\ModificadorRefOut\bin\Debug\net5.0\ModificadorRefOut.exe
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\ModificadorRefOut\ModificadorRefOut\bin\Debug\net5.0\ModificadorRefOut.deps.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\ModificadorRefOut\ModificadorRefOut\bin\Debug\net5.0\ModificadorRefOut.runtimeconfig.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\ModificadorRefOut\ModificadorRefOut\bin\Debug\net5.0\ModificadorRefOut.runtimeconfig.dev.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\ModificadorRefOut\ModificadorRefOut\bin\Debug\net5.0\ModificadorRefOut.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\ModificadorRefOut\ModificadorRefOut\bin\Debug\net5.0\ModificadorRefOut.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\ModificadorRefOut\ModificadorRefOut\obj\Debug\net5.0\ModificadorRefOut.csproj.AssemblyReference.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\ModificadorRefOut\ModificadorRefOut\obj\Debug\net5.0\ModificadorRefOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\ModificadorRefOut\ModificadorRefOut\obj\Debug\net5.0\ModificadorRefOut.AssemblyInfoInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\ModificadorRefOut\ModificadorRefOut\obj\Debug\net5.0\ModificadorRefOut.AssemblyInfo.cs
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\ModificadorRefOut\ModificadorRefOut\obj\Debug\net5.0\ModificadorRefOut.csproj.CoreCompileInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\ModificadorRefOut\ModificadorRefOut\obj\Debug\net5.0\ModificadorRefOut.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\ModificadorRefOut\ModificadorRefOut\obj\Debug\net5.0\refint\ModificadorRefOut.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\ModificadorRefOut\ModificadorRefOut\obj\Debug\net5.0\ModificadorRefOut.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\ModificadorRefOut\ModificadorRefOut\obj\Debug\net5.0\ModificadorRefOut.genruntimeconfig.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\ModificadorRefOut\ModificadorRefOut\obj\Debug\net5.0\ref\ModificadorRefOut.dll

@@ -1,0 +1,16 @@
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\LacoForEach\LacoForEach\bin\Debug\net5.0\LacoForEach.exe
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\LacoForEach\LacoForEach\bin\Debug\net5.0\LacoForEach.deps.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\LacoForEach\LacoForEach\bin\Debug\net5.0\LacoForEach.runtimeconfig.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\LacoForEach\LacoForEach\bin\Debug\net5.0\LacoForEach.runtimeconfig.dev.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\LacoForEach\LacoForEach\bin\Debug\net5.0\LacoForEach.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\LacoForEach\LacoForEach\bin\Debug\net5.0\LacoForEach.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\LacoForEach\LacoForEach\obj\Debug\net5.0\LacoForEach.csproj.AssemblyReference.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\LacoForEach\LacoForEach\obj\Debug\net5.0\LacoForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\LacoForEach\LacoForEach\obj\Debug\net5.0\LacoForEach.AssemblyInfoInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\LacoForEach\LacoForEach\obj\Debug\net5.0\LacoForEach.AssemblyInfo.cs
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\LacoForEach\LacoForEach\obj\Debug\net5.0\LacoForEach.csproj.CoreCompileInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\LacoForEach\LacoForEach\obj\Debug\net5.0\LacoForEach.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\LacoForEach\LacoForEach\obj\Debug\net5.0\refint\LacoForEach.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\LacoForEach\LacoForEach\obj\Debug\net5.0\LacoForEach.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\LacoForEach\LacoForEach\obj\Debug\net5.0\LacoForEach.genruntimeconfig.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\LacoForEach\LacoForEach\obj\Debug\net5.0\ref\LacoForEach.dll
