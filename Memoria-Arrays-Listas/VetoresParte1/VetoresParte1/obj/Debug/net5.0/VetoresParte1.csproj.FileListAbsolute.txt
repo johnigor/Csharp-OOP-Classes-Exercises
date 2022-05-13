@@ -1,0 +1,16 @@
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\VetoresParte1\VetoresParte1\bin\Debug\net5.0\VetoresParte1.exe
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\VetoresParte1\VetoresParte1\bin\Debug\net5.0\VetoresParte1.deps.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\VetoresParte1\VetoresParte1\bin\Debug\net5.0\VetoresParte1.runtimeconfig.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\VetoresParte1\VetoresParte1\bin\Debug\net5.0\VetoresParte1.runtimeconfig.dev.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\VetoresParte1\VetoresParte1\bin\Debug\net5.0\VetoresParte1.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\VetoresParte1\VetoresParte1\bin\Debug\net5.0\VetoresParte1.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\VetoresParte1\VetoresParte1\obj\Debug\net5.0\VetoresParte1.csproj.AssemblyReference.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\VetoresParte1\VetoresParte1\obj\Debug\net5.0\VetoresParte1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\VetoresParte1\VetoresParte1\obj\Debug\net5.0\VetoresParte1.AssemblyInfoInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\VetoresParte1\VetoresParte1\obj\Debug\net5.0\VetoresParte1.AssemblyInfo.cs
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\VetoresParte1\VetoresParte1\obj\Debug\net5.0\VetoresParte1.csproj.CoreCompileInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\VetoresParte1\VetoresParte1\obj\Debug\net5.0\VetoresParte1.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\VetoresParte1\VetoresParte1\obj\Debug\net5.0\refint\VetoresParte1.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\VetoresParte1\VetoresParte1\obj\Debug\net5.0\VetoresParte1.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\VetoresParte1\VetoresParte1\obj\Debug\net5.0\VetoresParte1.genruntimeconfig.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\VetoresParte1\VetoresParte1\obj\Debug\net5.0\ref\VetoresParte1.dll

@@ -1,0 +1,16 @@
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\Nullabe\Nullabe\bin\Debug\net5.0\Nullabe.exe
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\Nullabe\Nullabe\bin\Debug\net5.0\Nullabe.deps.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\Nullabe\Nullabe\bin\Debug\net5.0\Nullabe.runtimeconfig.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\Nullabe\Nullabe\bin\Debug\net5.0\Nullabe.runtimeconfig.dev.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\Nullabe\Nullabe\bin\Debug\net5.0\Nullabe.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\Nullabe\Nullabe\bin\Debug\net5.0\Nullabe.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\Nullabe\Nullabe\obj\Debug\net5.0\Nullabe.csproj.AssemblyReference.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\Nullabe\Nullabe\obj\Debug\net5.0\Nullabe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\Nullabe\Nullabe\obj\Debug\net5.0\Nullabe.AssemblyInfoInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\Nullabe\Nullabe\obj\Debug\net5.0\Nullabe.AssemblyInfo.cs
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\Nullabe\Nullabe\obj\Debug\net5.0\Nullabe.csproj.CoreCompileInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\Nullabe\Nullabe\obj\Debug\net5.0\Nullabe.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\Nullabe\Nullabe\obj\Debug\net5.0\refint\Nullabe.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\Nullabe\Nullabe\obj\Debug\net5.0\Nullabe.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\Nullabe\Nullabe\obj\Debug\net5.0\Nullabe.genruntimeconfig.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\Nullabe\Nullabe\obj\Debug\net5.0\ref\Nullabe.dll

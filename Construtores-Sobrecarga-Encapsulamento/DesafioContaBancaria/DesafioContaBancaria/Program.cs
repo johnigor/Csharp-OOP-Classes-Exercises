@@ -14,8 +14,7 @@ namespace DesafioContaBancaria
             string titular = Console.ReadLine();
             Console.Write("Haverá depósito inicial (s/n)? ");
             char resposta = char.Parse(Console.ReadLine());
-
-            if (resposta == 's')
+            if (resposta == 's' || resposta == 'S')
             {
                 Console.Write("Entre o valor do depósito inicial: ");
                 double depositoInicial = double.Parse(Console.ReadLine());
@@ -25,22 +24,22 @@ namespace DesafioContaBancaria
             {
                 conta = new ContaBancaria(numeroConta, titular);
             }
-
+                        
             Console.WriteLine();
             Console.WriteLine("Dados da conta:");
             Console.WriteLine(conta);
 
             Console.WriteLine();
             Console.Write("Entre um valor para depósito: ");
-            double deposito = double.Parse(Console.ReadLine());
-            conta.Deposito(deposito);
+            double quantia = double.Parse(Console.ReadLine());
+            conta.Deposito(quantia);
             Console.WriteLine("Dados da conta atualizados:");
             Console.WriteLine(conta);
 
             Console.WriteLine();
             Console.Write("Entre um valor para saque: ");
-            double saque = double.Parse(Console.ReadLine());
-            conta.Saque(saque);
+            quantia = double.Parse(Console.ReadLine());
+            conta.Saque(quantia);
             Console.WriteLine("Dados da conta atualizados:");
             Console.WriteLine(conta);
         }

@@ -4,44 +4,39 @@ namespace DesafioContaBancaria
 {
     internal class ContaBancaria
     {
-        private int _numeroConta;
-        public string Titular { get; private set; }
-        public double Saldo { get; private set; }         
-        
+        public int Numero { get; private set; }
+        public string Titular { get; set; }
+        public double Saldo { get; private set; }
+
         public ContaBancaria(int numeroConta, string titular)
         {
-            _numeroConta = numeroConta;
+            Numero = numeroConta;
             Titular = titular;
             Saldo = 0;
         }
 
-        public ContaBancaria(int numeroConta, string titular, double saldo) : this(numeroConta, titular)
+        public ContaBancaria(int numeroConta, string titular, double depositoInicial) : this(numeroConta, titular)
         {
-            Saldo = saldo;
+            Deposito(depositoInicial);
         }
 
-        public void DepositoInicial(double deposito)
+        public void Deposito(double quantia)
         {
-            Saldo += deposito;
+            Saldo += quantia;
         }
 
-        public void Deposito(double deposito)
+        public void Saque(double quantia)
         {
-            Saldo += deposito;
-        }
-
-        public void Saque(double saque)
-        {
-            if (Saldo > saque)
+            if (Saldo > quantia)
             {
-                Saldo -= saque + 5.0;
+                Saldo -= quantia + 5.0;
             }
         }
 
         public override string ToString()
         {
-            return "Conta " 
-                + _numeroConta
+            return "Conta "
+                + Numero
                 + ", Titular: "
                 + Titular
                 + ", Saldo: $"
