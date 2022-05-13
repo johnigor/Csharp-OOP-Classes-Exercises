@@ -1,0 +1,16 @@
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\ModificadorParams\ModificadorParams\bin\Debug\net5.0\ModificadorParams.exe
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\ModificadorParams\ModificadorParams\bin\Debug\net5.0\ModificadorParams.deps.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\ModificadorParams\ModificadorParams\bin\Debug\net5.0\ModificadorParams.runtimeconfig.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\ModificadorParams\ModificadorParams\bin\Debug\net5.0\ModificadorParams.runtimeconfig.dev.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\ModificadorParams\ModificadorParams\bin\Debug\net5.0\ModificadorParams.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\ModificadorParams\ModificadorParams\bin\Debug\net5.0\ModificadorParams.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\ModificadorParams\ModificadorParams\obj\Debug\net5.0\ModificadorParams.csproj.AssemblyReference.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\ModificadorParams\ModificadorParams\obj\Debug\net5.0\ModificadorParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\ModificadorParams\ModificadorParams\obj\Debug\net5.0\ModificadorParams.AssemblyInfoInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\ModificadorParams\ModificadorParams\obj\Debug\net5.0\ModificadorParams.AssemblyInfo.cs
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\ModificadorParams\ModificadorParams\obj\Debug\net5.0\ModificadorParams.csproj.CoreCompileInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\ModificadorParams\ModificadorParams\obj\Debug\net5.0\ModificadorParams.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\ModificadorParams\ModificadorParams\obj\Debug\net5.0\refint\ModificadorParams.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\ModificadorParams\ModificadorParams\obj\Debug\net5.0\ModificadorParams.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\ModificadorParams\ModificadorParams\obj\Debug\net5.0\ModificadorParams.genruntimeconfig.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\ModificadorParams\ModificadorParams\obj\Debug\net5.0\ref\ModificadorParams.dll

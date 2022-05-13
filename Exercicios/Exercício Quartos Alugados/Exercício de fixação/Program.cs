@@ -5,8 +5,7 @@ namespace Exercício_de_fixação
     internal class Program
     {
         static void Main(string[] args)
-        {
-           
+        {           
             Console.Write("How many rooms will be rented? ");
             int n = int.Parse(Console.ReadLine());
 
