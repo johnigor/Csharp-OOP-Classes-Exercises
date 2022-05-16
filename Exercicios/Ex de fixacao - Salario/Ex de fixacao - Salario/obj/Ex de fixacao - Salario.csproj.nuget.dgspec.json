@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Curso_Udemy_OOP_CSHARP\\aulas-e-exercicios-oop-csharp\\Ex de fixacao - Salario\\Ex de fixacao - Salario\\Ex de fixacao - Salario.csproj": {}
+    "C:\\Curso_Udemy_OOP_CSHARP\\aulas-e-exercicios-oop-csharp\\Exercicios\\Ex de fixacao - Salario\\Ex de fixacao - Salario\\Ex de fixacao - Salario.csproj": {}
   },
   "projects": {
-    "C:\\Curso_Udemy_OOP_CSHARP\\aulas-e-exercicios-oop-csharp\\Ex de fixacao - Salario\\Ex de fixacao - Salario\\Ex de fixacao - Salario.csproj": {
+    "C:\\Curso_Udemy_OOP_CSHARP\\aulas-e-exercicios-oop-csharp\\Exercicios\\Ex de fixacao - Salario\\Ex de fixacao - Salario\\Ex de fixacao - Salario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Curso_Udemy_OOP_CSHARP\\aulas-e-exercicios-oop-csharp\\Ex de fixacao - Salario\\Ex de fixacao - Salario\\Ex de fixacao - Salario.csproj",
+        "projectUniqueName": "C:\\Curso_Udemy_OOP_CSHARP\\aulas-e-exercicios-oop-csharp\\Exercicios\\Ex de fixacao - Salario\\Ex de fixacao - Salario\\Ex de fixacao - Salario.csproj",
         "projectName": "Ex de fixacao - Salario",
-        "projectPath": "C:\\Curso_Udemy_OOP_CSHARP\\aulas-e-exercicios-oop-csharp\\Ex de fixacao - Salario\\Ex de fixacao - Salario\\Ex de fixacao - Salario.csproj",
+        "projectPath": "C:\\Curso_Udemy_OOP_CSHARP\\aulas-e-exercicios-oop-csharp\\Exercicios\\Ex de fixacao - Salario\\Ex de fixacao - Salario\\Ex de fixacao - Salario.csproj",
         "packagesPath": "C:\\Users\\fifa_\\.nuget\\packages\\",
-        "outputPath": "C:\\Curso_Udemy_OOP_CSHARP\\aulas-e-exercicios-oop-csharp\\Ex de fixacao - Salario\\Ex de fixacao - Salario\\obj\\",
+        "outputPath": "C:\\Curso_Udemy_OOP_CSHARP\\aulas-e-exercicios-oop-csharp\\Exercicios\\Ex de fixacao - Salario\\Ex de fixacao - Salario\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

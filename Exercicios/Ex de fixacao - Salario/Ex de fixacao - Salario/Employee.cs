@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+﻿
 using System.Globalization;
 
 namespace Ex_de_fixacao___Salario
@@ -7,7 +6,7 @@ namespace Ex_de_fixacao___Salario
     internal class Employee
     {
         public int Id { get; set; }
-        public string Name { get; set; }  
+        public string Name { get; set; }
         public double Salary { get; private set; }
 
         public Employee(int id, string name, double salary)

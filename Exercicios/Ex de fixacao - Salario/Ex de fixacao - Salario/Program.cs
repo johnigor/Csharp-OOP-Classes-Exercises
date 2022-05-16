@@ -22,7 +22,7 @@ namespace Ex_de_fixacao___Salario
                 string name = Console.ReadLine();
                 Console.Write("Salary: ");
                 double salary = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-                list.Add(new Employee(id, name, salary));
+                list.Add(new Employee(id, name, salary));   
                 Console.WriteLine();
             }
 
