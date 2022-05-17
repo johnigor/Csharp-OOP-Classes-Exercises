@@ -27,7 +27,16 @@ namespace Matrizes
             
              */
 
+            double[,] matriz = new double[2,3];
 
+            //Imprime os elementos da matriz no total
+            Console.WriteLine(matriz.Length);
+            //Imprime a primeira dimensão da matriz
+            Console.WriteLine(matriz.Rank);
+            //A dimensão 0 da matriz (como no exemplo) tem tamanho 2
+            Console.WriteLine(matriz.GetLength(0));
+            //A matriz na segunda dimensão, tem tamanho 3, como no exemplo abaixo
+            Console.WriteLine(matriz.GetLength(1));
         }
     }
 }

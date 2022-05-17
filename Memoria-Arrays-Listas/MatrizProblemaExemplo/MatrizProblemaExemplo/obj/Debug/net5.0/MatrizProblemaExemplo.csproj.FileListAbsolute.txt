@@ -1,0 +1,16 @@
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\MatrizProblemaExemplo\MatrizProblemaExemplo\bin\Debug\net5.0\MatrizProblemaExemplo.exe
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\MatrizProblemaExemplo\MatrizProblemaExemplo\bin\Debug\net5.0\MatrizProblemaExemplo.deps.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\MatrizProblemaExemplo\MatrizProblemaExemplo\bin\Debug\net5.0\MatrizProblemaExemplo.runtimeconfig.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\MatrizProblemaExemplo\MatrizProblemaExemplo\bin\Debug\net5.0\MatrizProblemaExemplo.runtimeconfig.dev.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\MatrizProblemaExemplo\MatrizProblemaExemplo\bin\Debug\net5.0\MatrizProblemaExemplo.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\MatrizProblemaExemplo\MatrizProblemaExemplo\bin\Debug\net5.0\MatrizProblemaExemplo.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\MatrizProblemaExemplo\MatrizProblemaExemplo\obj\Debug\net5.0\MatrizProblemaExemplo.csproj.AssemblyReference.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\MatrizProblemaExemplo\MatrizProblemaExemplo\obj\Debug\net5.0\MatrizProblemaExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\MatrizProblemaExemplo\MatrizProblemaExemplo\obj\Debug\net5.0\MatrizProblemaExemplo.AssemblyInfoInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\MatrizProblemaExemplo\MatrizProblemaExemplo\obj\Debug\net5.0\MatrizProblemaExemplo.AssemblyInfo.cs
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\MatrizProblemaExemplo\MatrizProblemaExemplo\obj\Debug\net5.0\MatrizProblemaExemplo.csproj.CoreCompileInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\MatrizProblemaExemplo\MatrizProblemaExemplo\obj\Debug\net5.0\MatrizProblemaExemplo.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\MatrizProblemaExemplo\MatrizProblemaExemplo\obj\Debug\net5.0\refint\MatrizProblemaExemplo.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\MatrizProblemaExemplo\MatrizProblemaExemplo\obj\Debug\net5.0\MatrizProblemaExemplo.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\MatrizProblemaExemplo\MatrizProblemaExemplo\obj\Debug\net5.0\MatrizProblemaExemplo.genruntimeconfig.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\MatrizProblemaExemplo\MatrizProblemaExemplo\obj\Debug\net5.0\ref\MatrizProblemaExemplo.dll

@@ -1,0 +1,16 @@
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\DesafioMatriz\DesafioMatriz\bin\Debug\net5.0\DesafioMatriz.exe
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\DesafioMatriz\DesafioMatriz\bin\Debug\net5.0\DesafioMatriz.deps.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\DesafioMatriz\DesafioMatriz\bin\Debug\net5.0\DesafioMatriz.runtimeconfig.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\DesafioMatriz\DesafioMatriz\bin\Debug\net5.0\DesafioMatriz.runtimeconfig.dev.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\DesafioMatriz\DesafioMatriz\bin\Debug\net5.0\DesafioMatriz.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\DesafioMatriz\DesafioMatriz\bin\Debug\net5.0\DesafioMatriz.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\DesafioMatriz\DesafioMatriz\obj\Debug\net5.0\DesafioMatriz.csproj.AssemblyReference.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\DesafioMatriz\DesafioMatriz\obj\Debug\net5.0\DesafioMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\DesafioMatriz\DesafioMatriz\obj\Debug\net5.0\DesafioMatriz.AssemblyInfoInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\DesafioMatriz\DesafioMatriz\obj\Debug\net5.0\DesafioMatriz.AssemblyInfo.cs
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\DesafioMatriz\DesafioMatriz\obj\Debug\net5.0\DesafioMatriz.csproj.CoreCompileInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\DesafioMatriz\DesafioMatriz\obj\Debug\net5.0\DesafioMatriz.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\DesafioMatriz\DesafioMatriz\obj\Debug\net5.0\refint\DesafioMatriz.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\DesafioMatriz\DesafioMatriz\obj\Debug\net5.0\DesafioMatriz.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\DesafioMatriz\DesafioMatriz\obj\Debug\net5.0\DesafioMatriz.genruntimeconfig.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Memoria-Arrays-Listas\DesafioMatriz\DesafioMatriz\obj\Debug\net5.0\ref\DesafioMatriz.dll
