@@ -1,0 +1,16 @@
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\PossiveisFuncoesParaString\PossiveisFuncoesParaString\bin\Debug\net5.0\PossiveisFuncoesParaString.exe
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\PossiveisFuncoesParaString\PossiveisFuncoesParaString\bin\Debug\net5.0\PossiveisFuncoesParaString.deps.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\PossiveisFuncoesParaString\PossiveisFuncoesParaString\bin\Debug\net5.0\PossiveisFuncoesParaString.runtimeconfig.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\PossiveisFuncoesParaString\PossiveisFuncoesParaString\bin\Debug\net5.0\PossiveisFuncoesParaString.runtimeconfig.dev.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\PossiveisFuncoesParaString\PossiveisFuncoesParaString\bin\Debug\net5.0\PossiveisFuncoesParaString.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\PossiveisFuncoesParaString\PossiveisFuncoesParaString\bin\Debug\net5.0\PossiveisFuncoesParaString.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\PossiveisFuncoesParaString\PossiveisFuncoesParaString\obj\Debug\net5.0\PossiveisFuncoesParaString.csproj.AssemblyReference.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\PossiveisFuncoesParaString\PossiveisFuncoesParaString\obj\Debug\net5.0\PossiveisFuncoesParaString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\PossiveisFuncoesParaString\PossiveisFuncoesParaString\obj\Debug\net5.0\PossiveisFuncoesParaString.AssemblyInfoInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\PossiveisFuncoesParaString\PossiveisFuncoesParaString\obj\Debug\net5.0\PossiveisFuncoesParaString.AssemblyInfo.cs
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\PossiveisFuncoesParaString\PossiveisFuncoesParaString\obj\Debug\net5.0\PossiveisFuncoesParaString.csproj.CoreCompileInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\PossiveisFuncoesParaString\PossiveisFuncoesParaString\obj\Debug\net5.0\PossiveisFuncoesParaString.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\PossiveisFuncoesParaString\PossiveisFuncoesParaString\obj\Debug\net5.0\refint\PossiveisFuncoesParaString.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\PossiveisFuncoesParaString\PossiveisFuncoesParaString\obj\Debug\net5.0\PossiveisFuncoesParaString.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\PossiveisFuncoesParaString\PossiveisFuncoesParaString\obj\Debug\net5.0\PossiveisFuncoesParaString.genruntimeconfig.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\PossiveisFuncoesParaString\PossiveisFuncoesParaString\obj\Debug\net5.0\ref\PossiveisFuncoesParaString.dll

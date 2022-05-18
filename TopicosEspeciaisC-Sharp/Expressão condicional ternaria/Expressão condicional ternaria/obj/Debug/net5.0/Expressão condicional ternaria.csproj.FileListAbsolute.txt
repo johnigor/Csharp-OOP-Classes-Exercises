@@ -1,0 +1,32 @@
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Expressão condicional ternaria\Expressão condicional ternaria\bin\Debug\net5.0\Expressão condicional ternaria.exe
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Expressão condicional ternaria\Expressão condicional ternaria\bin\Debug\net5.0\Expressão condicional ternaria.deps.json
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Expressão condicional ternaria\Expressão condicional ternaria\bin\Debug\net5.0\Expressão condicional ternaria.runtimeconfig.json
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Expressão condicional ternaria\Expressão condicional ternaria\bin\Debug\net5.0\Expressão condicional ternaria.runtimeconfig.dev.json
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Expressão condicional ternaria\Expressão condicional ternaria\bin\Debug\net5.0\Expressão condicional ternaria.dll
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Expressão condicional ternaria\Expressão condicional ternaria\bin\Debug\net5.0\Expressão condicional ternaria.pdb
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Expressão condicional ternaria\Expressão condicional ternaria\obj\Debug\net5.0\Expressão condicional ternaria.csproj.AssemblyReference.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Expressão condicional ternaria\Expressão condicional ternaria\obj\Debug\net5.0\Expressão condicional ternaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Expressão condicional ternaria\Expressão condicional ternaria\obj\Debug\net5.0\Expressão condicional ternaria.AssemblyInfoInputs.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Expressão condicional ternaria\Expressão condicional ternaria\obj\Debug\net5.0\Expressão condicional ternaria.AssemblyInfo.cs
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Expressão condicional ternaria\Expressão condicional ternaria\obj\Debug\net5.0\Expressão condicional ternaria.csproj.CoreCompileInputs.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Expressão condicional ternaria\Expressão condicional ternaria\obj\Debug\net5.0\Expressão condicional ternaria.dll
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Expressão condicional ternaria\Expressão condicional ternaria\obj\Debug\net5.0\refint\Expressão condicional ternaria.dll
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Expressão condicional ternaria\Expressão condicional ternaria\obj\Debug\net5.0\Expressão condicional ternaria.pdb
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Expressão condicional ternaria\Expressão condicional ternaria\obj\Debug\net5.0\Expressão condicional ternaria.genruntimeconfig.cache
+C:\Curso - Orientação a Objetos C#\Aulas + Ex Fixação\Expressão condicional ternaria\Expressão condicional ternaria\obj\Debug\net5.0\ref\Expressão condicional ternaria.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\Expressão condicional ternaria\Expressão condicional ternaria\bin\Debug\net5.0\Expressão condicional ternaria.exe
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\Expressão condicional ternaria\Expressão condicional ternaria\bin\Debug\net5.0\Expressão condicional ternaria.deps.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\Expressão condicional ternaria\Expressão condicional ternaria\bin\Debug\net5.0\Expressão condicional ternaria.runtimeconfig.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\Expressão condicional ternaria\Expressão condicional ternaria\bin\Debug\net5.0\Expressão condicional ternaria.runtimeconfig.dev.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\Expressão condicional ternaria\Expressão condicional ternaria\bin\Debug\net5.0\Expressão condicional ternaria.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\Expressão condicional ternaria\Expressão condicional ternaria\bin\Debug\net5.0\Expressão condicional ternaria.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\Expressão condicional ternaria\Expressão condicional ternaria\obj\Debug\net5.0\Expressão condicional ternaria.csproj.AssemblyReference.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\Expressão condicional ternaria\Expressão condicional ternaria\obj\Debug\net5.0\Expressão condicional ternaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\Expressão condicional ternaria\Expressão condicional ternaria\obj\Debug\net5.0\Expressão condicional ternaria.AssemblyInfoInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\Expressão condicional ternaria\Expressão condicional ternaria\obj\Debug\net5.0\Expressão condicional ternaria.AssemblyInfo.cs
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\Expressão condicional ternaria\Expressão condicional ternaria\obj\Debug\net5.0\Expressão condicional ternaria.csproj.CoreCompileInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\Expressão condicional ternaria\Expressão condicional ternaria\obj\Debug\net5.0\Expressão condicional ternaria.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\Expressão condicional ternaria\Expressão condicional ternaria\obj\Debug\net5.0\refint\Expressão condicional ternaria.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\Expressão condicional ternaria\Expressão condicional ternaria\obj\Debug\net5.0\Expressão condicional ternaria.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\Expressão condicional ternaria\Expressão condicional ternaria\obj\Debug\net5.0\Expressão condicional ternaria.genruntimeconfig.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\Expressão condicional ternaria\Expressão condicional ternaria\obj\Debug\net5.0\ref\Expressão condicional ternaria.dll

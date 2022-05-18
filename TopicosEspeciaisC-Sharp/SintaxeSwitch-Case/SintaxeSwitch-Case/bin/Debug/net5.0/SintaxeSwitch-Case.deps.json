@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SintaxeSwitch-Case/1.0.0": {
+        "runtime": {
+          "SintaxeSwitch-Case.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SintaxeSwitch-Case/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

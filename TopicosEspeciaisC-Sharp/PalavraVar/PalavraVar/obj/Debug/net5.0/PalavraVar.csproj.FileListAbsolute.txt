@@ -1,0 +1,16 @@
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\PalavraVar\PalavraVar\bin\Debug\net5.0\PalavraVar.exe
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\PalavraVar\PalavraVar\bin\Debug\net5.0\PalavraVar.deps.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\PalavraVar\PalavraVar\bin\Debug\net5.0\PalavraVar.runtimeconfig.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\PalavraVar\PalavraVar\bin\Debug\net5.0\PalavraVar.runtimeconfig.dev.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\PalavraVar\PalavraVar\bin\Debug\net5.0\PalavraVar.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\PalavraVar\PalavraVar\bin\Debug\net5.0\PalavraVar.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\PalavraVar\PalavraVar\obj\Debug\net5.0\PalavraVar.csproj.AssemblyReference.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\PalavraVar\PalavraVar\obj\Debug\net5.0\PalavraVar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\PalavraVar\PalavraVar\obj\Debug\net5.0\PalavraVar.AssemblyInfoInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\PalavraVar\PalavraVar\obj\Debug\net5.0\PalavraVar.AssemblyInfo.cs
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\PalavraVar\PalavraVar\obj\Debug\net5.0\PalavraVar.csproj.CoreCompileInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\PalavraVar\PalavraVar\obj\Debug\net5.0\PalavraVar.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\PalavraVar\PalavraVar\obj\Debug\net5.0\refint\PalavraVar.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\PalavraVar\PalavraVar\obj\Debug\net5.0\PalavraVar.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\PalavraVar\PalavraVar\obj\Debug\net5.0\PalavraVar.genruntimeconfig.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\PalavraVar\PalavraVar\obj\Debug\net5.0\ref\PalavraVar.dll
