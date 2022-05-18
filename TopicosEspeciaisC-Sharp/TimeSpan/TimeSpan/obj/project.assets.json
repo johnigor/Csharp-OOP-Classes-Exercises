@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Curso_Udemy_OOP_CSHARP\\aulas-e-exercicios-oop-csharp\\TopicosEspeciaisC-Sharp\\DateTime\\DateTime\\DateTime1.csproj",
-      "projectName": "DateTime1",
-      "projectPath": "C:\\Curso_Udemy_OOP_CSHARP\\aulas-e-exercicios-oop-csharp\\TopicosEspeciaisC-Sharp\\DateTime\\DateTime\\DateTime1.csproj",
+      "projectUniqueName": "C:\\Curso_Udemy_OOP_CSHARP\\aulas-e-exercicios-oop-csharp\\TopicosEspeciaisC-Sharp\\TimeSpan\\TimeSpan\\TimeSpan1.csproj",
+      "projectName": "TimeSpan1",
+      "projectPath": "C:\\Curso_Udemy_OOP_CSHARP\\aulas-e-exercicios-oop-csharp\\TopicosEspeciaisC-Sharp\\TimeSpan\\TimeSpan\\TimeSpan1.csproj",
       "packagesPath": "C:\\Users\\fifa_\\.nuget\\packages\\",
-      "outputPath": "C:\\Curso_Udemy_OOP_CSHARP\\aulas-e-exercicios-oop-csharp\\TopicosEspeciaisC-Sharp\\DateTime\\DateTime\\obj\\",
+      "outputPath": "C:\\Curso_Udemy_OOP_CSHARP\\aulas-e-exercicios-oop-csharp\\TopicosEspeciaisC-Sharp\\TimeSpan\\TimeSpan\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
