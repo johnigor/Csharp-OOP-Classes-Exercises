@@ -1,0 +1,7 @@
+					Anotações sobre Heranças OOP
+
+Classe Abstrata: Não pode ser instanciada. Só pode servir como progenitora.
+Classe Final: Não pode ser herdada por outra classe. Obrigatoriamente folha (não possui filhas).
+
+Método Abstrato: Declarado, mas não pode ser implementado na progenitora.
+Método Final: Não pode ser sobrescrito pelas suas sub-classes. Obrigatoriamente herdado.
