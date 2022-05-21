@@ -1,3 +1,6 @@
 Conceitos de Polimorfismo
 
-1. Polimorfismo de sobreposição: Acontece quando *substituímos*  um método de uma superclasse na sua subclasse, usando a *mesma assinatura*.
+1. Polimorfismo de Sobreposição: Acontece quando *substituímos*  um método de uma superclasse na sua subclasse, usando a *mesma assinatura*.
+Mesma assinatura, Classes diferentes
+
+2. Polimorfismo de Sobrecarga: Mesmas classes, assinaturas diferente
