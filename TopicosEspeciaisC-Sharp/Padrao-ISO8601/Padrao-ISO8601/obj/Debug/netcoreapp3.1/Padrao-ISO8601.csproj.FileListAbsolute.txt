@@ -1,0 +1,27 @@
+C:\Users\John\source\repos\Padrao-ISO8601\Padrao-ISO8601\bin\Debug\netcoreapp3.1\Padrao-ISO8601.exe
+C:\Users\John\source\repos\Padrao-ISO8601\Padrao-ISO8601\bin\Debug\netcoreapp3.1\Padrao-ISO8601.deps.json
+C:\Users\John\source\repos\Padrao-ISO8601\Padrao-ISO8601\bin\Debug\netcoreapp3.1\Padrao-ISO8601.runtimeconfig.json
+C:\Users\John\source\repos\Padrao-ISO8601\Padrao-ISO8601\bin\Debug\netcoreapp3.1\Padrao-ISO8601.runtimeconfig.dev.json
+C:\Users\John\source\repos\Padrao-ISO8601\Padrao-ISO8601\bin\Debug\netcoreapp3.1\Padrao-ISO8601.dll
+C:\Users\John\source\repos\Padrao-ISO8601\Padrao-ISO8601\bin\Debug\netcoreapp3.1\Padrao-ISO8601.pdb
+C:\Users\John\source\repos\Padrao-ISO8601\Padrao-ISO8601\obj\Debug\netcoreapp3.1\Padrao-ISO8601.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\source\repos\Padrao-ISO8601\Padrao-ISO8601\obj\Debug\netcoreapp3.1\Padrao-ISO8601.AssemblyInfoInputs.cache
+C:\Users\John\source\repos\Padrao-ISO8601\Padrao-ISO8601\obj\Debug\netcoreapp3.1\Padrao-ISO8601.AssemblyInfo.cs
+C:\Users\John\source\repos\Padrao-ISO8601\Padrao-ISO8601\obj\Debug\netcoreapp3.1\Padrao-ISO8601.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\Padrao-ISO8601\Padrao-ISO8601\obj\Debug\netcoreapp3.1\Padrao-ISO8601.dll
+C:\Users\John\source\repos\Padrao-ISO8601\Padrao-ISO8601\obj\Debug\netcoreapp3.1\Padrao-ISO8601.pdb
+C:\Users\John\source\repos\Padrao-ISO8601\Padrao-ISO8601\obj\Debug\netcoreapp3.1\Padrao-ISO8601.genruntimeconfig.cache
+C:\Users\John\Desktop\Aulas John\Padrao-ISO8601\Padrao-ISO8601\bin\Debug\netcoreapp3.1\Padrao-ISO8601.exe
+C:\Users\John\Desktop\Aulas John\Padrao-ISO8601\Padrao-ISO8601\bin\Debug\netcoreapp3.1\Padrao-ISO8601.deps.json
+C:\Users\John\Desktop\Aulas John\Padrao-ISO8601\Padrao-ISO8601\bin\Debug\netcoreapp3.1\Padrao-ISO8601.runtimeconfig.json
+C:\Users\John\Desktop\Aulas John\Padrao-ISO8601\Padrao-ISO8601\bin\Debug\netcoreapp3.1\Padrao-ISO8601.runtimeconfig.dev.json
+C:\Users\John\Desktop\Aulas John\Padrao-ISO8601\Padrao-ISO8601\bin\Debug\netcoreapp3.1\Padrao-ISO8601.dll
+C:\Users\John\Desktop\Aulas John\Padrao-ISO8601\Padrao-ISO8601\bin\Debug\netcoreapp3.1\Padrao-ISO8601.pdb
+C:\Users\John\Desktop\Aulas John\Padrao-ISO8601\Padrao-ISO8601\obj\Debug\netcoreapp3.1\Padrao-ISO8601.csproj.AssemblyReference.cache
+C:\Users\John\Desktop\Aulas John\Padrao-ISO8601\Padrao-ISO8601\obj\Debug\netcoreapp3.1\Padrao-ISO8601.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\Aulas John\Padrao-ISO8601\Padrao-ISO8601\obj\Debug\netcoreapp3.1\Padrao-ISO8601.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\Aulas John\Padrao-ISO8601\Padrao-ISO8601\obj\Debug\netcoreapp3.1\Padrao-ISO8601.AssemblyInfo.cs
+C:\Users\John\Desktop\Aulas John\Padrao-ISO8601\Padrao-ISO8601\obj\Debug\netcoreapp3.1\Padrao-ISO8601.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\Aulas John\Padrao-ISO8601\Padrao-ISO8601\obj\Debug\netcoreapp3.1\Padrao-ISO8601.dll
+C:\Users\John\Desktop\Aulas John\Padrao-ISO8601\Padrao-ISO8601\obj\Debug\netcoreapp3.1\Padrao-ISO8601.pdb
+C:\Users\John\Desktop\Aulas John\Padrao-ISO8601\Padrao-ISO8601\obj\Debug\netcoreapp3.1\Padrao-ISO8601.genruntimeconfig.cache

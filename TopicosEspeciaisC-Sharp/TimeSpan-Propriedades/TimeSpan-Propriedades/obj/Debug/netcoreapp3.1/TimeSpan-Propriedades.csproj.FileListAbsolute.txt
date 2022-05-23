@@ -1,0 +1,14 @@
+C:\Users\John\source\repos\TimeSpan-Propriedades\TimeSpan-Propriedades\bin\Debug\netcoreapp3.1\TimeSpan-Propriedades.exe
+C:\Users\John\source\repos\TimeSpan-Propriedades\TimeSpan-Propriedades\bin\Debug\netcoreapp3.1\TimeSpan-Propriedades.deps.json
+C:\Users\John\source\repos\TimeSpan-Propriedades\TimeSpan-Propriedades\bin\Debug\netcoreapp3.1\TimeSpan-Propriedades.runtimeconfig.json
+C:\Users\John\source\repos\TimeSpan-Propriedades\TimeSpan-Propriedades\bin\Debug\netcoreapp3.1\TimeSpan-Propriedades.runtimeconfig.dev.json
+C:\Users\John\source\repos\TimeSpan-Propriedades\TimeSpan-Propriedades\bin\Debug\netcoreapp3.1\TimeSpan-Propriedades.dll
+C:\Users\John\source\repos\TimeSpan-Propriedades\TimeSpan-Propriedades\bin\Debug\netcoreapp3.1\TimeSpan-Propriedades.pdb
+C:\Users\John\source\repos\TimeSpan-Propriedades\TimeSpan-Propriedades\obj\Debug\netcoreapp3.1\TimeSpan-Propriedades.csproj.AssemblyReference.cache
+C:\Users\John\source\repos\TimeSpan-Propriedades\TimeSpan-Propriedades\obj\Debug\netcoreapp3.1\TimeSpan-Propriedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\source\repos\TimeSpan-Propriedades\TimeSpan-Propriedades\obj\Debug\netcoreapp3.1\TimeSpan-Propriedades.AssemblyInfoInputs.cache
+C:\Users\John\source\repos\TimeSpan-Propriedades\TimeSpan-Propriedades\obj\Debug\netcoreapp3.1\TimeSpan-Propriedades.AssemblyInfo.cs
+C:\Users\John\source\repos\TimeSpan-Propriedades\TimeSpan-Propriedades\obj\Debug\netcoreapp3.1\TimeSpan-Propriedades.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\TimeSpan-Propriedades\TimeSpan-Propriedades\obj\Debug\netcoreapp3.1\TimeSpan-Propriedades.dll
+C:\Users\John\source\repos\TimeSpan-Propriedades\TimeSpan-Propriedades\obj\Debug\netcoreapp3.1\TimeSpan-Propriedades.pdb
+C:\Users\John\source\repos\TimeSpan-Propriedades\TimeSpan-Propriedades\obj\Debug\netcoreapp3.1\TimeSpan-Propriedades.genruntimeconfig.cache

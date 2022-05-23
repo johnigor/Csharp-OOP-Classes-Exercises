@@ -1,0 +1,14 @@
+C:\Users\John\Desktop\Aulas John\Ex_Composicao\Ex_Composicao\bin\Debug\netcoreapp3.1\Ex_Composicao.exe
+C:\Users\John\Desktop\Aulas John\Ex_Composicao\Ex_Composicao\bin\Debug\netcoreapp3.1\Ex_Composicao.deps.json
+C:\Users\John\Desktop\Aulas John\Ex_Composicao\Ex_Composicao\bin\Debug\netcoreapp3.1\Ex_Composicao.runtimeconfig.json
+C:\Users\John\Desktop\Aulas John\Ex_Composicao\Ex_Composicao\bin\Debug\netcoreapp3.1\Ex_Composicao.runtimeconfig.dev.json
+C:\Users\John\Desktop\Aulas John\Ex_Composicao\Ex_Composicao\bin\Debug\netcoreapp3.1\Ex_Composicao.dll
+C:\Users\John\Desktop\Aulas John\Ex_Composicao\Ex_Composicao\bin\Debug\netcoreapp3.1\Ex_Composicao.pdb
+C:\Users\John\Desktop\Aulas John\Ex_Composicao\Ex_Composicao\obj\Debug\netcoreapp3.1\Ex_Composicao.csproj.AssemblyReference.cache
+C:\Users\John\Desktop\Aulas John\Ex_Composicao\Ex_Composicao\obj\Debug\netcoreapp3.1\Ex_Composicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\Aulas John\Ex_Composicao\Ex_Composicao\obj\Debug\netcoreapp3.1\Ex_Composicao.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\Aulas John\Ex_Composicao\Ex_Composicao\obj\Debug\netcoreapp3.1\Ex_Composicao.AssemblyInfo.cs
+C:\Users\John\Desktop\Aulas John\Ex_Composicao\Ex_Composicao\obj\Debug\netcoreapp3.1\Ex_Composicao.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\Aulas John\Ex_Composicao\Ex_Composicao\obj\Debug\netcoreapp3.1\Ex_Composicao.dll
+C:\Users\John\Desktop\Aulas John\Ex_Composicao\Ex_Composicao\obj\Debug\netcoreapp3.1\Ex_Composicao.pdb
+C:\Users\John\Desktop\Aulas John\Ex_Composicao\Ex_Composicao\obj\Debug\netcoreapp3.1\Ex_Composicao.genruntimeconfig.cache
