@@ -1,0 +1,16 @@
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Heranca-Polimorfismo\UpCasting-e-DownCasting\UpCasting-e-DownCasting\bin\Debug\net5.0\UpCasting-e-DownCasting.exe
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Heranca-Polimorfismo\UpCasting-e-DownCasting\UpCasting-e-DownCasting\bin\Debug\net5.0\UpCasting-e-DownCasting.deps.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Heranca-Polimorfismo\UpCasting-e-DownCasting\UpCasting-e-DownCasting\bin\Debug\net5.0\UpCasting-e-DownCasting.runtimeconfig.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Heranca-Polimorfismo\UpCasting-e-DownCasting\UpCasting-e-DownCasting\bin\Debug\net5.0\UpCasting-e-DownCasting.runtimeconfig.dev.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Heranca-Polimorfismo\UpCasting-e-DownCasting\UpCasting-e-DownCasting\bin\Debug\net5.0\UpCasting-e-DownCasting.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Heranca-Polimorfismo\UpCasting-e-DownCasting\UpCasting-e-DownCasting\bin\Debug\net5.0\UpCasting-e-DownCasting.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Heranca-Polimorfismo\UpCasting-e-DownCasting\UpCasting-e-DownCasting\obj\Debug\net5.0\UpCasting-e-DownCasting.csproj.AssemblyReference.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Heranca-Polimorfismo\UpCasting-e-DownCasting\UpCasting-e-DownCasting\obj\Debug\net5.0\UpCasting-e-DownCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Heranca-Polimorfismo\UpCasting-e-DownCasting\UpCasting-e-DownCasting\obj\Debug\net5.0\UpCasting-e-DownCasting.AssemblyInfoInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Heranca-Polimorfismo\UpCasting-e-DownCasting\UpCasting-e-DownCasting\obj\Debug\net5.0\UpCasting-e-DownCasting.AssemblyInfo.cs
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Heranca-Polimorfismo\UpCasting-e-DownCasting\UpCasting-e-DownCasting\obj\Debug\net5.0\UpCasting-e-DownCasting.csproj.CoreCompileInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Heranca-Polimorfismo\UpCasting-e-DownCasting\UpCasting-e-DownCasting\obj\Debug\net5.0\UpCasting-e-DownCasting.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Heranca-Polimorfismo\UpCasting-e-DownCasting\UpCasting-e-DownCasting\obj\Debug\net5.0\refint\UpCasting-e-DownCasting.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Heranca-Polimorfismo\UpCasting-e-DownCasting\UpCasting-e-DownCasting\obj\Debug\net5.0\UpCasting-e-DownCasting.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Heranca-Polimorfismo\UpCasting-e-DownCasting\UpCasting-e-DownCasting\obj\Debug\net5.0\UpCasting-e-DownCasting.genruntimeconfig.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Heranca-Polimorfismo\UpCasting-e-DownCasting\UpCasting-e-DownCasting\obj\Debug\net5.0\ref\UpCasting-e-DownCasting.dll
