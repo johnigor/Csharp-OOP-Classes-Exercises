@@ -1,0 +1,14 @@
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\Estrutura-try-catch\Estrutura-try-catch\bin\Debug\netcoreapp3.1\Estrutura-try-catch.exe
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\Estrutura-try-catch\Estrutura-try-catch\bin\Debug\netcoreapp3.1\Estrutura-try-catch.deps.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\Estrutura-try-catch\Estrutura-try-catch\bin\Debug\netcoreapp3.1\Estrutura-try-catch.runtimeconfig.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\Estrutura-try-catch\Estrutura-try-catch\bin\Debug\netcoreapp3.1\Estrutura-try-catch.runtimeconfig.dev.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\Estrutura-try-catch\Estrutura-try-catch\bin\Debug\netcoreapp3.1\Estrutura-try-catch.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\Estrutura-try-catch\Estrutura-try-catch\bin\Debug\netcoreapp3.1\Estrutura-try-catch.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\Estrutura-try-catch\Estrutura-try-catch\obj\Debug\netcoreapp3.1\Estrutura-try-catch.csproj.AssemblyReference.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\Estrutura-try-catch\Estrutura-try-catch\obj\Debug\netcoreapp3.1\Estrutura-try-catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\Estrutura-try-catch\Estrutura-try-catch\obj\Debug\netcoreapp3.1\Estrutura-try-catch.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\Estrutura-try-catch\Estrutura-try-catch\obj\Debug\netcoreapp3.1\Estrutura-try-catch.AssemblyInfo.cs
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\Estrutura-try-catch\Estrutura-try-catch\obj\Debug\netcoreapp3.1\Estrutura-try-catch.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\Estrutura-try-catch\Estrutura-try-catch\obj\Debug\netcoreapp3.1\Estrutura-try-catch.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\Estrutura-try-catch\Estrutura-try-catch\obj\Debug\netcoreapp3.1\Estrutura-try-catch.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\Estrutura-try-catch\Estrutura-try-catch\obj\Debug\netcoreapp3.1\Estrutura-try-catch.genruntimeconfig.cache

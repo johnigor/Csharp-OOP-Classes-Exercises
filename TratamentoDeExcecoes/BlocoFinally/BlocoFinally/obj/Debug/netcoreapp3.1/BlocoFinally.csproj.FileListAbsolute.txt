@@ -1,0 +1,13 @@
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\BlocoFinally\BlocoFinally\bin\Debug\netcoreapp3.1\BlocoFinally.exe
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\BlocoFinally\BlocoFinally\bin\Debug\netcoreapp3.1\BlocoFinally.deps.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\BlocoFinally\BlocoFinally\bin\Debug\netcoreapp3.1\BlocoFinally.runtimeconfig.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\BlocoFinally\BlocoFinally\bin\Debug\netcoreapp3.1\BlocoFinally.runtimeconfig.dev.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\BlocoFinally\BlocoFinally\bin\Debug\netcoreapp3.1\BlocoFinally.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\BlocoFinally\BlocoFinally\bin\Debug\netcoreapp3.1\BlocoFinally.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\BlocoFinally\BlocoFinally\obj\Debug\netcoreapp3.1\BlocoFinally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\BlocoFinally\BlocoFinally\obj\Debug\netcoreapp3.1\BlocoFinally.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\BlocoFinally\BlocoFinally\obj\Debug\netcoreapp3.1\BlocoFinally.AssemblyInfo.cs
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\BlocoFinally\BlocoFinally\obj\Debug\netcoreapp3.1\BlocoFinally.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\BlocoFinally\BlocoFinally\obj\Debug\netcoreapp3.1\BlocoFinally.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\BlocoFinally\BlocoFinally\obj\Debug\netcoreapp3.1\BlocoFinally.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\BlocoFinally\BlocoFinally\obj\Debug\netcoreapp3.1\BlocoFinally.genruntimeconfig.cache

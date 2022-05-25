@@ -16,11 +16,11 @@ ou o programa seja encerrado.
 - Trata de forma organizada (inclusive hierárquica) exceções de tipos diferentes
 - A exceção pode carregar dados quaisquer
 
-	Estrutura "try-catch":
+	Estrutura "TRY-CATCH":
 
-- Bloco try
+- BLOCO TRY
 	- Contém o código que representa a execução normal do trecho de código que pode acarretar em uma execução.
-- Bloco catch
+- BLOCO CACTH
 	- Contém o código a ser executado caso uma exceção ocorra.
 	- Deve ser especificado o tipo da exceção a ser tratada (upcasting é permitido)
 
@@ -38,3 +38,20 @@ ou o programa seja encerrado.
 	catch (ExceptionType e) {
 
 	}
+
+- BLOCO FINALLY
+	- É um bloco qu contém código a ser executado independentemente de ter ocorrido ou não uma exceção.
+	- Exemplo clássico: fechar um arquivo ou conexão de banco de dados ao final do processamento.
+	
+	SINTAXE:
+
+	try {
+
+	}
+	catch (Exception e) {
+
+	}
+	finally {
+
+	}
+ 
