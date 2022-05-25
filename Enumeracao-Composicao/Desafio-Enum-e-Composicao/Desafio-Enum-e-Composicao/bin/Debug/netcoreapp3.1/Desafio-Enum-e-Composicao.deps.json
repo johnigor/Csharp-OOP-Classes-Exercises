@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Desafio-Enum-e-Composicao/1.0.0": {
+        "runtime": {
+          "Desafio-Enum-e-Composicao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Desafio-Enum-e-Composicao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

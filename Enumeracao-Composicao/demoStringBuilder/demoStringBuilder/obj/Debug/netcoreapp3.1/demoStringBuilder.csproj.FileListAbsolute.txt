@@ -1,0 +1,14 @@
+C:\Users\John\Desktop\Aulas John\demoStringBuilder\demoStringBuilder\bin\Debug\netcoreapp3.1\demoStringBuilder.exe
+C:\Users\John\Desktop\Aulas John\demoStringBuilder\demoStringBuilder\bin\Debug\netcoreapp3.1\demoStringBuilder.deps.json
+C:\Users\John\Desktop\Aulas John\demoStringBuilder\demoStringBuilder\bin\Debug\netcoreapp3.1\demoStringBuilder.runtimeconfig.json
+C:\Users\John\Desktop\Aulas John\demoStringBuilder\demoStringBuilder\bin\Debug\netcoreapp3.1\demoStringBuilder.runtimeconfig.dev.json
+C:\Users\John\Desktop\Aulas John\demoStringBuilder\demoStringBuilder\bin\Debug\netcoreapp3.1\demoStringBuilder.dll
+C:\Users\John\Desktop\Aulas John\demoStringBuilder\demoStringBuilder\bin\Debug\netcoreapp3.1\demoStringBuilder.pdb
+C:\Users\John\Desktop\Aulas John\demoStringBuilder\demoStringBuilder\obj\Debug\netcoreapp3.1\demoStringBuilder.csproj.AssemblyReference.cache
+C:\Users\John\Desktop\Aulas John\demoStringBuilder\demoStringBuilder\obj\Debug\netcoreapp3.1\demoStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\Aulas John\demoStringBuilder\demoStringBuilder\obj\Debug\netcoreapp3.1\demoStringBuilder.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\Aulas John\demoStringBuilder\demoStringBuilder\obj\Debug\netcoreapp3.1\demoStringBuilder.AssemblyInfo.cs
+C:\Users\John\Desktop\Aulas John\demoStringBuilder\demoStringBuilder\obj\Debug\netcoreapp3.1\demoStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\Aulas John\demoStringBuilder\demoStringBuilder\obj\Debug\netcoreapp3.1\demoStringBuilder.dll
+C:\Users\John\Desktop\Aulas John\demoStringBuilder\demoStringBuilder\obj\Debug\netcoreapp3.1\demoStringBuilder.pdb
+C:\Users\John\Desktop\Aulas John\demoStringBuilder\demoStringBuilder\obj\Debug\netcoreapp3.1\demoStringBuilder.genruntimeconfig.cache
