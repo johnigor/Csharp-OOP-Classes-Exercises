@@ -1,0 +1,8 @@
+Tratamento de exceções:
+
+O que são Exceções?
+
+- Uma exceção é qualquer condição de erro ou comportamento inesperado
+encontrado por um programa em execução
+
+- No .NET, uma exceção é um objeto herdado da classe System.Exception

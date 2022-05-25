@@ -1,0 +1,14 @@
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Heranca-Polimorfismo\MetodosAbstratos\MetodosAbstratos\bin\Debug\netcoreapp3.1\MetodosAbstratos.exe
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Heranca-Polimorfismo\MetodosAbstratos\MetodosAbstratos\bin\Debug\netcoreapp3.1\MetodosAbstratos.deps.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Heranca-Polimorfismo\MetodosAbstratos\MetodosAbstratos\bin\Debug\netcoreapp3.1\MetodosAbstratos.runtimeconfig.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Heranca-Polimorfismo\MetodosAbstratos\MetodosAbstratos\bin\Debug\netcoreapp3.1\MetodosAbstratos.runtimeconfig.dev.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Heranca-Polimorfismo\MetodosAbstratos\MetodosAbstratos\bin\Debug\netcoreapp3.1\MetodosAbstratos.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Heranca-Polimorfismo\MetodosAbstratos\MetodosAbstratos\bin\Debug\netcoreapp3.1\MetodosAbstratos.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Heranca-Polimorfismo\MetodosAbstratos\MetodosAbstratos\obj\Debug\netcoreapp3.1\MetodosAbstratos.csproj.AssemblyReference.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Heranca-Polimorfismo\MetodosAbstratos\MetodosAbstratos\obj\Debug\netcoreapp3.1\MetodosAbstratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Heranca-Polimorfismo\MetodosAbstratos\MetodosAbstratos\obj\Debug\netcoreapp3.1\MetodosAbstratos.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Heranca-Polimorfismo\MetodosAbstratos\MetodosAbstratos\obj\Debug\netcoreapp3.1\MetodosAbstratos.AssemblyInfo.cs
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Heranca-Polimorfismo\MetodosAbstratos\MetodosAbstratos\obj\Debug\netcoreapp3.1\MetodosAbstratos.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Heranca-Polimorfismo\MetodosAbstratos\MetodosAbstratos\obj\Debug\netcoreapp3.1\MetodosAbstratos.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Heranca-Polimorfismo\MetodosAbstratos\MetodosAbstratos\obj\Debug\netcoreapp3.1\MetodosAbstratos.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Heranca-Polimorfismo\MetodosAbstratos\MetodosAbstratos\obj\Debug\netcoreapp3.1\MetodosAbstratos.genruntimeconfig.cache
