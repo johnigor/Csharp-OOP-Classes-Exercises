@@ -11,3 +11,17 @@ C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\Excecoe
 C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\netcoreapp3.1\ExcecoesPersonalizadas.dll
 C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\netcoreapp3.1\ExcecoesPersonalizadas.pdb
 C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\netcoreapp3.1\ExcecoesPersonalizadas.genruntimeconfig.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\ExcecoesPersonalizadas\ExcecoesPersonalizadas\bin\Debug\netcoreapp3.1\ExcecoesPersonalizadas.exe
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\ExcecoesPersonalizadas\ExcecoesPersonalizadas\bin\Debug\netcoreapp3.1\ExcecoesPersonalizadas.deps.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\ExcecoesPersonalizadas\ExcecoesPersonalizadas\bin\Debug\netcoreapp3.1\ExcecoesPersonalizadas.runtimeconfig.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\ExcecoesPersonalizadas\ExcecoesPersonalizadas\bin\Debug\netcoreapp3.1\ExcecoesPersonalizadas.runtimeconfig.dev.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\ExcecoesPersonalizadas\ExcecoesPersonalizadas\bin\Debug\netcoreapp3.1\ExcecoesPersonalizadas.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\ExcecoesPersonalizadas\ExcecoesPersonalizadas\bin\Debug\netcoreapp3.1\ExcecoesPersonalizadas.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\netcoreapp3.1\ExcecoesPersonalizadas.csproj.AssemblyReference.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\netcoreapp3.1\ExcecoesPersonalizadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\netcoreapp3.1\ExcecoesPersonalizadas.AssemblyInfoInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\netcoreapp3.1\ExcecoesPersonalizadas.AssemblyInfo.cs
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\netcoreapp3.1\ExcecoesPersonalizadas.csproj.CoreCompileInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\netcoreapp3.1\ExcecoesPersonalizadas.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\netcoreapp3.1\ExcecoesPersonalizadas.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\netcoreapp3.1\ExcecoesPersonalizadas.genruntimeconfig.cache
