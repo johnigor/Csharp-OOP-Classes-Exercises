@@ -1,0 +1,14 @@
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\DesafioTratamentoExcecoes\DesafioTratamentoExcecoes\bin\Debug\netcoreapp3.1\DesafioTratamentoExcecoes.exe
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\DesafioTratamentoExcecoes\DesafioTratamentoExcecoes\bin\Debug\netcoreapp3.1\DesafioTratamentoExcecoes.deps.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\DesafioTratamentoExcecoes\DesafioTratamentoExcecoes\bin\Debug\netcoreapp3.1\DesafioTratamentoExcecoes.runtimeconfig.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\DesafioTratamentoExcecoes\DesafioTratamentoExcecoes\bin\Debug\netcoreapp3.1\DesafioTratamentoExcecoes.runtimeconfig.dev.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\DesafioTratamentoExcecoes\DesafioTratamentoExcecoes\bin\Debug\netcoreapp3.1\DesafioTratamentoExcecoes.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\DesafioTratamentoExcecoes\DesafioTratamentoExcecoes\bin\Debug\netcoreapp3.1\DesafioTratamentoExcecoes.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\DesafioTratamentoExcecoes\DesafioTratamentoExcecoes\obj\Debug\netcoreapp3.1\DesafioTratamentoExcecoes.csproj.AssemblyReference.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\DesafioTratamentoExcecoes\DesafioTratamentoExcecoes\obj\Debug\netcoreapp3.1\DesafioTratamentoExcecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\DesafioTratamentoExcecoes\DesafioTratamentoExcecoes\obj\Debug\netcoreapp3.1\DesafioTratamentoExcecoes.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\DesafioTratamentoExcecoes\DesafioTratamentoExcecoes\obj\Debug\netcoreapp3.1\DesafioTratamentoExcecoes.AssemblyInfo.cs
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\DesafioTratamentoExcecoes\DesafioTratamentoExcecoes\obj\Debug\netcoreapp3.1\DesafioTratamentoExcecoes.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\DesafioTratamentoExcecoes\DesafioTratamentoExcecoes\obj\Debug\netcoreapp3.1\DesafioTratamentoExcecoes.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\DesafioTratamentoExcecoes\DesafioTratamentoExcecoes\obj\Debug\netcoreapp3.1\DesafioTratamentoExcecoes.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TratamentoDeExcecoes\DesafioTratamentoExcecoes\DesafioTratamentoExcecoes\obj\Debug\netcoreapp3.1\DesafioTratamentoExcecoes.genruntimeconfig.cache
