@@ -1,0 +1,35 @@
+				File, FileInfo, IOException
+
+File, FileInfo: Duas classes basicas para utilização de arquivos
+
+- Namespace System.IO
+
+- Realiza operações com arquivos (create, copy, delete, move, open, etc.) e ajuda na criação
+de objetos FileStream.
+
+File:
+- Static members (simples, mas realiza verificação de segurança para cada operação)
+- Não precisa instanciar um objeto para depois chamar as operações, elas são estáticas
+
+FileInfo:
+- Instance members
+- Precisa instanciar um objeto e chamar as operações a partir dele (o objeto já vai estar
+atrelado ao arquivo que for aberto e o sistema operacional vai ser avisado disso)
+- Programa fica mais rápido
+
+IOException:
+
+- Namespace System.IO
+- Superclasse de todas as exceções possíveis que podem acontecer quando se trabalha com arquivo
+
+
+	IOException:
+- DirectoryNotFoundException
+- DriveNotFoundException
+- EndOfStreamException
+- FileLoadException
+- FileNotFoundException
+- PathTooLongException
+- PipeException
+
+

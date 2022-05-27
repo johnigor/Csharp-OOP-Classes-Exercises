@@ -1,0 +1,14 @@
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TrabalhandoComArquivos\File-FileInfo-IOException\File-FileInfo-IOException\bin\Debug\netcoreapp3.1\File-FileInfo-IOException.exe
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TrabalhandoComArquivos\File-FileInfo-IOException\File-FileInfo-IOException\bin\Debug\netcoreapp3.1\File-FileInfo-IOException.deps.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TrabalhandoComArquivos\File-FileInfo-IOException\File-FileInfo-IOException\bin\Debug\netcoreapp3.1\File-FileInfo-IOException.runtimeconfig.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TrabalhandoComArquivos\File-FileInfo-IOException\File-FileInfo-IOException\bin\Debug\netcoreapp3.1\File-FileInfo-IOException.runtimeconfig.dev.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TrabalhandoComArquivos\File-FileInfo-IOException\File-FileInfo-IOException\bin\Debug\netcoreapp3.1\File-FileInfo-IOException.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TrabalhandoComArquivos\File-FileInfo-IOException\File-FileInfo-IOException\bin\Debug\netcoreapp3.1\File-FileInfo-IOException.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TrabalhandoComArquivos\File-FileInfo-IOException\File-FileInfo-IOException\obj\Debug\netcoreapp3.1\File-FileInfo-IOException.csproj.AssemblyReference.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TrabalhandoComArquivos\File-FileInfo-IOException\File-FileInfo-IOException\obj\Debug\netcoreapp3.1\File-FileInfo-IOException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TrabalhandoComArquivos\File-FileInfo-IOException\File-FileInfo-IOException\obj\Debug\netcoreapp3.1\File-FileInfo-IOException.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TrabalhandoComArquivos\File-FileInfo-IOException\File-FileInfo-IOException\obj\Debug\netcoreapp3.1\File-FileInfo-IOException.AssemblyInfo.cs
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TrabalhandoComArquivos\File-FileInfo-IOException\File-FileInfo-IOException\obj\Debug\netcoreapp3.1\File-FileInfo-IOException.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TrabalhandoComArquivos\File-FileInfo-IOException\File-FileInfo-IOException\obj\Debug\netcoreapp3.1\File-FileInfo-IOException.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TrabalhandoComArquivos\File-FileInfo-IOException\File-FileInfo-IOException\obj\Debug\netcoreapp3.1\File-FileInfo-IOException.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TrabalhandoComArquivos\File-FileInfo-IOException\File-FileInfo-IOException\obj\Debug\netcoreapp3.1\File-FileInfo-IOException.genruntimeconfig.cache
