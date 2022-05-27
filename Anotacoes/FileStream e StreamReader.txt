@@ -1,0 +1,20 @@
+				FileStream
+
+- Disponibiliza uma stream associada a um arquivo, 
+permitindo operações de leitura e escrita
+- Suporte a dados binários
+
+Instanciação:
+	- Vários construtores
+	- File / FileInfo
+
+
+				StreamReader
+
+- É uma stream capaz de ler caracteres a partir de uma stream binária 
+(ex: FileStream).
+- Suporte a dados no formato de texto
+
+Instanciação
+	- Vários construtores
+	- File / FileInfo
