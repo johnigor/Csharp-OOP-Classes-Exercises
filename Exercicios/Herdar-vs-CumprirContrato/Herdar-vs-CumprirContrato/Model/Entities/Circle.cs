@@ -3,7 +3,7 @@ using System.Globalization;
 
 namespace Herdar_vs_CumprirContrato.Model.Entities
 {
-    class Circle : Shape 
+    class Circle : AbstractShape 
     {
         public double Radius { get; set; }
 

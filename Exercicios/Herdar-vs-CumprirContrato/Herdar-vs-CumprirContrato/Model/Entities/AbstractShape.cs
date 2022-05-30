@@ -2,9 +2,10 @@
 
 namespace Herdar_vs_CumprirContrato.Model.Entities
 {
-    abstract class Shape
+    abstract class AbstractShape : IShape
     {
         public Color Color { get; set; }
-        public abstract double Area();
+
+        public abstract double Area();        
     }
 }
