@@ -1,0 +1,13 @@
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TrabalhandoComArquivos\Path\Path\bin\Debug\netcoreapp3.1\Path.exe
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TrabalhandoComArquivos\Path\Path\bin\Debug\netcoreapp3.1\Path.deps.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TrabalhandoComArquivos\Path\Path\bin\Debug\netcoreapp3.1\Path.runtimeconfig.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TrabalhandoComArquivos\Path\Path\bin\Debug\netcoreapp3.1\Path.runtimeconfig.dev.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TrabalhandoComArquivos\Path\Path\bin\Debug\netcoreapp3.1\Path.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TrabalhandoComArquivos\Path\Path\bin\Debug\netcoreapp3.1\Path.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TrabalhandoComArquivos\Path\Path\obj\Debug\netcoreapp3.1\Path.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TrabalhandoComArquivos\Path\Path\obj\Debug\netcoreapp3.1\Path.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TrabalhandoComArquivos\Path\Path\obj\Debug\netcoreapp3.1\Path.AssemblyInfo.cs
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TrabalhandoComArquivos\Path\Path\obj\Debug\netcoreapp3.1\Path.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TrabalhandoComArquivos\Path\Path\obj\Debug\netcoreapp3.1\Path.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TrabalhandoComArquivos\Path\Path\obj\Debug\netcoreapp3.1\Path.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TrabalhandoComArquivos\Path\Path\obj\Debug\netcoreapp3.1\Path.genruntimeconfig.cache

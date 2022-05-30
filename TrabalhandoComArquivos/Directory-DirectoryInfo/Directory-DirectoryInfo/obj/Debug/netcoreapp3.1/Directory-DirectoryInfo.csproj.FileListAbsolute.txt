@@ -1,0 +1,14 @@
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TrabalhandoComArquivos\Directory-DirectoryInfo\Directory-DirectoryInfo\bin\Debug\netcoreapp3.1\Directory-DirectoryInfo.exe
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TrabalhandoComArquivos\Directory-DirectoryInfo\Directory-DirectoryInfo\bin\Debug\netcoreapp3.1\Directory-DirectoryInfo.deps.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TrabalhandoComArquivos\Directory-DirectoryInfo\Directory-DirectoryInfo\bin\Debug\netcoreapp3.1\Directory-DirectoryInfo.runtimeconfig.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TrabalhandoComArquivos\Directory-DirectoryInfo\Directory-DirectoryInfo\bin\Debug\netcoreapp3.1\Directory-DirectoryInfo.runtimeconfig.dev.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TrabalhandoComArquivos\Directory-DirectoryInfo\Directory-DirectoryInfo\bin\Debug\netcoreapp3.1\Directory-DirectoryInfo.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TrabalhandoComArquivos\Directory-DirectoryInfo\Directory-DirectoryInfo\bin\Debug\netcoreapp3.1\Directory-DirectoryInfo.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TrabalhandoComArquivos\Directory-DirectoryInfo\Directory-DirectoryInfo\obj\Debug\netcoreapp3.1\Directory-DirectoryInfo.csproj.AssemblyReference.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TrabalhandoComArquivos\Directory-DirectoryInfo\Directory-DirectoryInfo\obj\Debug\netcoreapp3.1\Directory-DirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TrabalhandoComArquivos\Directory-DirectoryInfo\Directory-DirectoryInfo\obj\Debug\netcoreapp3.1\Directory-DirectoryInfo.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TrabalhandoComArquivos\Directory-DirectoryInfo\Directory-DirectoryInfo\obj\Debug\netcoreapp3.1\Directory-DirectoryInfo.AssemblyInfo.cs
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TrabalhandoComArquivos\Directory-DirectoryInfo\Directory-DirectoryInfo\obj\Debug\netcoreapp3.1\Directory-DirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TrabalhandoComArquivos\Directory-DirectoryInfo\Directory-DirectoryInfo\obj\Debug\netcoreapp3.1\Directory-DirectoryInfo.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TrabalhandoComArquivos\Directory-DirectoryInfo\Directory-DirectoryInfo\obj\Debug\netcoreapp3.1\Directory-DirectoryInfo.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TrabalhandoComArquivos\Directory-DirectoryInfo\Directory-DirectoryInfo\obj\Debug\netcoreapp3.1\Directory-DirectoryInfo.genruntimeconfig.cache
