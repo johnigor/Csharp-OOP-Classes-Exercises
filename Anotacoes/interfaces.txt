@@ -1,0 +1,17 @@
+				Interface
+
+- Interface é um tipo que define um conjunto de operações que uma classe (ou struct) deve implementar.
+
+A interface estabelece um contrato que a classe (ou struct) deve cumprir.
+
+	Sintaxe:
+
+interface IShape 
+{
+	double Area();
+	double Perimeter();
+}
+
+				Pra quê interfaces?
+
+- Para criar sistemas com baixo acoplamento e flexíveis.

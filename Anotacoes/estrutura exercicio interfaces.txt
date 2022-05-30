@@ -1,0 +1,12 @@
+Estrutura de projeto Ex\Interfaces
+
+		Entidades
+- Aluguel de carro (start, finish)
+	- Veículo (modelo)
+	- NotaPagamento (valorBasico, Imposto, Total)
+
+		Services (no interface)
+- ServicoAluguel (precoPorHora, precoPorDia)
+	+ ProcessarNotaPagamento (carRental : CarRental) : void
+- ImpostoBrasil
+	+ Taxa(valor : Double) : Double

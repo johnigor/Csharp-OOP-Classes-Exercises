@@ -1,0 +1,14 @@
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Interfaces\_Interfaces\_Interfaces\bin\Debug\netcoreapp3.1\_Interfaces.exe
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Interfaces\_Interfaces\_Interfaces\bin\Debug\netcoreapp3.1\_Interfaces.deps.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Interfaces\_Interfaces\_Interfaces\bin\Debug\netcoreapp3.1\_Interfaces.runtimeconfig.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Interfaces\_Interfaces\_Interfaces\bin\Debug\netcoreapp3.1\_Interfaces.runtimeconfig.dev.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Interfaces\_Interfaces\_Interfaces\bin\Debug\netcoreapp3.1\_Interfaces.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Interfaces\_Interfaces\_Interfaces\bin\Debug\netcoreapp3.1\_Interfaces.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Interfaces\_Interfaces\_Interfaces\obj\Debug\netcoreapp3.1\_Interfaces.csproj.AssemblyReference.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Interfaces\_Interfaces\_Interfaces\obj\Debug\netcoreapp3.1\_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Interfaces\_Interfaces\_Interfaces\obj\Debug\netcoreapp3.1\_Interfaces.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Interfaces\_Interfaces\_Interfaces\obj\Debug\netcoreapp3.1\_Interfaces.AssemblyInfo.cs
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Interfaces\_Interfaces\_Interfaces\obj\Debug\netcoreapp3.1\_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Interfaces\_Interfaces\_Interfaces\obj\Debug\netcoreapp3.1\_Interfaces.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Interfaces\_Interfaces\_Interfaces\obj\Debug\netcoreapp3.1\_Interfaces.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Interfaces\_Interfaces\_Interfaces\obj\Debug\netcoreapp3.1\_Interfaces.genruntimeconfig.cache
