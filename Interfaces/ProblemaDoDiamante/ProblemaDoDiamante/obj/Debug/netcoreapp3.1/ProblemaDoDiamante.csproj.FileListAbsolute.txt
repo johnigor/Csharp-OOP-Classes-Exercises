@@ -1,0 +1,14 @@
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Interfaces\ProblemaDoDiamante\ProblemaDoDiamante\bin\Debug\netcoreapp3.1\ProblemaDoDiamante.exe
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Interfaces\ProblemaDoDiamante\ProblemaDoDiamante\bin\Debug\netcoreapp3.1\ProblemaDoDiamante.deps.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Interfaces\ProblemaDoDiamante\ProblemaDoDiamante\bin\Debug\netcoreapp3.1\ProblemaDoDiamante.runtimeconfig.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Interfaces\ProblemaDoDiamante\ProblemaDoDiamante\bin\Debug\netcoreapp3.1\ProblemaDoDiamante.runtimeconfig.dev.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Interfaces\ProblemaDoDiamante\ProblemaDoDiamante\bin\Debug\netcoreapp3.1\ProblemaDoDiamante.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Interfaces\ProblemaDoDiamante\ProblemaDoDiamante\bin\Debug\netcoreapp3.1\ProblemaDoDiamante.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Interfaces\ProblemaDoDiamante\ProblemaDoDiamante\obj\Debug\netcoreapp3.1\ProblemaDoDiamante.csproj.AssemblyReference.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Interfaces\ProblemaDoDiamante\ProblemaDoDiamante\obj\Debug\netcoreapp3.1\ProblemaDoDiamante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Interfaces\ProblemaDoDiamante\ProblemaDoDiamante\obj\Debug\netcoreapp3.1\ProblemaDoDiamante.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Interfaces\ProblemaDoDiamante\ProblemaDoDiamante\obj\Debug\netcoreapp3.1\ProblemaDoDiamante.AssemblyInfo.cs
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Interfaces\ProblemaDoDiamante\ProblemaDoDiamante\obj\Debug\netcoreapp3.1\ProblemaDoDiamante.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Interfaces\ProblemaDoDiamante\ProblemaDoDiamante\obj\Debug\netcoreapp3.1\ProblemaDoDiamante.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Interfaces\ProblemaDoDiamante\ProblemaDoDiamante\obj\Debug\netcoreapp3.1\ProblemaDoDiamante.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Interfaces\ProblemaDoDiamante\ProblemaDoDiamante\obj\Debug\netcoreapp3.1\ProblemaDoDiamante.genruntimeconfig.cache
