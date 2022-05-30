@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\John\\Desktop\\Aulas John\\Ex_Composicao\\Ex_Composicao\\Ex_Composicao.csproj": {}
+    "C:\\Users\\John\\Desktop\\aulas-e-exercicios-oop-csharp\\Enumeracao-Composicao\\Ex_Composicao\\Ex_Composicao\\Ex_Composicao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\John\\Desktop\\Aulas John\\Ex_Composicao\\Ex_Composicao\\Ex_Composicao.csproj": {
+    "C:\\Users\\John\\Desktop\\aulas-e-exercicios-oop-csharp\\Enumeracao-Composicao\\Ex_Composicao\\Ex_Composicao\\Ex_Composicao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\John\\Desktop\\Aulas John\\Ex_Composicao\\Ex_Composicao\\Ex_Composicao.csproj",
+        "projectUniqueName": "C:\\Users\\John\\Desktop\\aulas-e-exercicios-oop-csharp\\Enumeracao-Composicao\\Ex_Composicao\\Ex_Composicao\\Ex_Composicao.csproj",
         "projectName": "Ex_Composicao",
-        "projectPath": "C:\\Users\\John\\Desktop\\Aulas John\\Ex_Composicao\\Ex_Composicao\\Ex_Composicao.csproj",
+        "projectPath": "C:\\Users\\John\\Desktop\\aulas-e-exercicios-oop-csharp\\Enumeracao-Composicao\\Ex_Composicao\\Ex_Composicao\\Ex_Composicao.csproj",
         "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\John\\Desktop\\Aulas John\\Ex_Composicao\\Ex_Composicao\\obj\\",
+        "outputPath": "C:\\Users\\John\\Desktop\\aulas-e-exercicios-oop-csharp\\Enumeracao-Composicao\\Ex_Composicao\\Ex_Composicao\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
