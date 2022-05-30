@@ -1,6 +1,6 @@
 ﻿namespace _Interfaces.Services
 {
-    class BrazilTaxService
+    class BrazilTaxService : ITaxService //não é herança, é realização de interface
     {
         public double Tax(double amount)
         {

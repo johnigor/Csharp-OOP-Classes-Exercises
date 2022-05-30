@@ -25,7 +25,7 @@ namespace _Interfaces
             double pricePerDay = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             Console.WriteLine();
 
-            RentalService rentalService = new RentalService(pricePerHour, pricePerDay);
+            RentalService rentalService = new RentalService(pricePerHour, pricePerDay, new BrazilTaxService());
 
             rentalService.ProcessInvoice(carRental);
 
