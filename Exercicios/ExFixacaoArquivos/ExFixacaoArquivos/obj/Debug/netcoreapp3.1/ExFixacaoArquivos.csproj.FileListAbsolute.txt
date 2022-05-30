@@ -1,0 +1,14 @@
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\ExFixacaoArquivos\ExFixacaoArquivos\bin\Debug\netcoreapp3.1\ExFixacaoArquivos.exe
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\ExFixacaoArquivos\ExFixacaoArquivos\bin\Debug\netcoreapp3.1\ExFixacaoArquivos.deps.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\ExFixacaoArquivos\ExFixacaoArquivos\bin\Debug\netcoreapp3.1\ExFixacaoArquivos.runtimeconfig.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\ExFixacaoArquivos\ExFixacaoArquivos\bin\Debug\netcoreapp3.1\ExFixacaoArquivos.runtimeconfig.dev.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\ExFixacaoArquivos\ExFixacaoArquivos\bin\Debug\netcoreapp3.1\ExFixacaoArquivos.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\ExFixacaoArquivos\ExFixacaoArquivos\bin\Debug\netcoreapp3.1\ExFixacaoArquivos.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\ExFixacaoArquivos\ExFixacaoArquivos\obj\Debug\netcoreapp3.1\ExFixacaoArquivos.csproj.AssemblyReference.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\ExFixacaoArquivos\ExFixacaoArquivos\obj\Debug\netcoreapp3.1\ExFixacaoArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\ExFixacaoArquivos\ExFixacaoArquivos\obj\Debug\netcoreapp3.1\ExFixacaoArquivos.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\ExFixacaoArquivos\ExFixacaoArquivos\obj\Debug\netcoreapp3.1\ExFixacaoArquivos.AssemblyInfo.cs
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\ExFixacaoArquivos\ExFixacaoArquivos\obj\Debug\netcoreapp3.1\ExFixacaoArquivos.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\ExFixacaoArquivos\ExFixacaoArquivos\obj\Debug\netcoreapp3.1\ExFixacaoArquivos.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\ExFixacaoArquivos\ExFixacaoArquivos\obj\Debug\netcoreapp3.1\ExFixacaoArquivos.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\ExFixacaoArquivos\ExFixacaoArquivos\obj\Debug\netcoreapp3.1\ExFixacaoArquivos.genruntimeconfig.cache
