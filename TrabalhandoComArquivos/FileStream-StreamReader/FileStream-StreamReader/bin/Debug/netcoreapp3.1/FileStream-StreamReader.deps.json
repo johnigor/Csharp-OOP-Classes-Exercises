@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FileStream-StreamReader/1.0.0": {
+        "runtime": {
+          "FileStream-StreamReader.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FileStream-StreamReader/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
