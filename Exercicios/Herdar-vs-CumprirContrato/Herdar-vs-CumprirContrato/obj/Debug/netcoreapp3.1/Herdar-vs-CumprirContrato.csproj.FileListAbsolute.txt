@@ -1,0 +1,14 @@
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\Herdar-vs-CumprirContrato\Herdar-vs-CumprirContrato\bin\Debug\netcoreapp3.1\Herdar-vs-CumprirContrato.exe
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\Herdar-vs-CumprirContrato\Herdar-vs-CumprirContrato\bin\Debug\netcoreapp3.1\Herdar-vs-CumprirContrato.deps.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\Herdar-vs-CumprirContrato\Herdar-vs-CumprirContrato\bin\Debug\netcoreapp3.1\Herdar-vs-CumprirContrato.runtimeconfig.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\Herdar-vs-CumprirContrato\Herdar-vs-CumprirContrato\bin\Debug\netcoreapp3.1\Herdar-vs-CumprirContrato.runtimeconfig.dev.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\Herdar-vs-CumprirContrato\Herdar-vs-CumprirContrato\bin\Debug\netcoreapp3.1\Herdar-vs-CumprirContrato.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\Herdar-vs-CumprirContrato\Herdar-vs-CumprirContrato\bin\Debug\netcoreapp3.1\Herdar-vs-CumprirContrato.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\Herdar-vs-CumprirContrato\Herdar-vs-CumprirContrato\obj\Debug\netcoreapp3.1\Herdar-vs-CumprirContrato.csproj.AssemblyReference.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\Herdar-vs-CumprirContrato\Herdar-vs-CumprirContrato\obj\Debug\netcoreapp3.1\Herdar-vs-CumprirContrato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\Herdar-vs-CumprirContrato\Herdar-vs-CumprirContrato\obj\Debug\netcoreapp3.1\Herdar-vs-CumprirContrato.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\Herdar-vs-CumprirContrato\Herdar-vs-CumprirContrato\obj\Debug\netcoreapp3.1\Herdar-vs-CumprirContrato.AssemblyInfo.cs
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\Herdar-vs-CumprirContrato\Herdar-vs-CumprirContrato\obj\Debug\netcoreapp3.1\Herdar-vs-CumprirContrato.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\Herdar-vs-CumprirContrato\Herdar-vs-CumprirContrato\obj\Debug\netcoreapp3.1\Herdar-vs-CumprirContrato.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\Herdar-vs-CumprirContrato\Herdar-vs-CumprirContrato\obj\Debug\netcoreapp3.1\Herdar-vs-CumprirContrato.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\Herdar-vs-CumprirContrato\Herdar-vs-CumprirContrato\obj\Debug\netcoreapp3.1\Herdar-vs-CumprirContrato.genruntimeconfig.cache
