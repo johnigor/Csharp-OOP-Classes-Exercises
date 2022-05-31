@@ -1,0 +1,14 @@
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\HashComparaIgualdade\HashComparaIgualdade\bin\Debug\netcoreapp3.1\HashComparaIgualdade.exe
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\HashComparaIgualdade\HashComparaIgualdade\bin\Debug\netcoreapp3.1\HashComparaIgualdade.deps.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\HashComparaIgualdade\HashComparaIgualdade\bin\Debug\netcoreapp3.1\HashComparaIgualdade.runtimeconfig.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\HashComparaIgualdade\HashComparaIgualdade\bin\Debug\netcoreapp3.1\HashComparaIgualdade.runtimeconfig.dev.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\HashComparaIgualdade\HashComparaIgualdade\bin\Debug\netcoreapp3.1\HashComparaIgualdade.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\HashComparaIgualdade\HashComparaIgualdade\bin\Debug\netcoreapp3.1\HashComparaIgualdade.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\HashComparaIgualdade\HashComparaIgualdade\obj\Debug\netcoreapp3.1\HashComparaIgualdade.csproj.AssemblyReference.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\HashComparaIgualdade\HashComparaIgualdade\obj\Debug\netcoreapp3.1\HashComparaIgualdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\HashComparaIgualdade\HashComparaIgualdade\obj\Debug\netcoreapp3.1\HashComparaIgualdade.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\HashComparaIgualdade\HashComparaIgualdade\obj\Debug\netcoreapp3.1\HashComparaIgualdade.AssemblyInfo.cs
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\HashComparaIgualdade\HashComparaIgualdade\obj\Debug\netcoreapp3.1\HashComparaIgualdade.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\HashComparaIgualdade\HashComparaIgualdade\obj\Debug\netcoreapp3.1\HashComparaIgualdade.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\HashComparaIgualdade\HashComparaIgualdade\obj\Debug\netcoreapp3.1\HashComparaIgualdade.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\HashComparaIgualdade\HashComparaIgualdade\obj\Debug\netcoreapp3.1\HashComparaIgualdade.genruntimeconfig.cache

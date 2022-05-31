@@ -7,7 +7,7 @@ namespace HashSet_e_SortedSet
     {
         static void Main(string[] args)
         {
-            //Apenas um exemplo da aula anterior
+            //exemplo da aula anterior (217)
 
             /*HashSet<string> set = new HashSet<string>();
 
