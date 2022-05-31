@@ -1,0 +1,13 @@
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\GetHashCode_e_Equals\GetHashCode_e_Equals\bin\Debug\netcoreapp3.1\GetHashCode_e_Equals.exe
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\GetHashCode_e_Equals\GetHashCode_e_Equals\bin\Debug\netcoreapp3.1\GetHashCode_e_Equals.deps.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\GetHashCode_e_Equals\GetHashCode_e_Equals\bin\Debug\netcoreapp3.1\GetHashCode_e_Equals.runtimeconfig.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\GetHashCode_e_Equals\GetHashCode_e_Equals\bin\Debug\netcoreapp3.1\GetHashCode_e_Equals.runtimeconfig.dev.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\GetHashCode_e_Equals\GetHashCode_e_Equals\bin\Debug\netcoreapp3.1\GetHashCode_e_Equals.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\GetHashCode_e_Equals\GetHashCode_e_Equals\bin\Debug\netcoreapp3.1\GetHashCode_e_Equals.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\GetHashCode_e_Equals\GetHashCode_e_Equals\obj\Debug\netcoreapp3.1\GetHashCode_e_Equals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\GetHashCode_e_Equals\GetHashCode_e_Equals\obj\Debug\netcoreapp3.1\GetHashCode_e_Equals.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\GetHashCode_e_Equals\GetHashCode_e_Equals\obj\Debug\netcoreapp3.1\GetHashCode_e_Equals.AssemblyInfo.cs
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\GetHashCode_e_Equals\GetHashCode_e_Equals\obj\Debug\netcoreapp3.1\GetHashCode_e_Equals.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\GetHashCode_e_Equals\GetHashCode_e_Equals\obj\Debug\netcoreapp3.1\GetHashCode_e_Equals.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\GetHashCode_e_Equals\GetHashCode_e_Equals\obj\Debug\netcoreapp3.1\GetHashCode_e_Equals.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\GetHashCode_e_Equals\GetHashCode_e_Equals\obj\Debug\netcoreapp3.1\GetHashCode_e_Equals.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+				GetHashCode e Equals
+
+- São operações da classe Object utilizadas para comparar se um objeto é igual a outro
+
+- Equals: lento, resposta 100%
+- GetHashCode: rápido, porém resposta positiva não é 100%
+
+- Os tipos pré-definidos já possuem implementação para essas operações. 
+Classes e structs personalizados precisam sobrepô-las.
+
+		Equals
+
+- Método que compara se o objeto é igual a outro, retornando true ou false.
+
+		GetHashCode
+
+- Método que retorna um número inteiro representando um código gerado a partir das
+informações do objeto
+
+Regra de ouro do GetHashCode
+- Se o código de dois objetos for diferente, então os dois objetos são diferentes.
+- Se o código dos dois objetos for igual, muito provavelmente os objetos são iguais 
+(pode haver colisão)

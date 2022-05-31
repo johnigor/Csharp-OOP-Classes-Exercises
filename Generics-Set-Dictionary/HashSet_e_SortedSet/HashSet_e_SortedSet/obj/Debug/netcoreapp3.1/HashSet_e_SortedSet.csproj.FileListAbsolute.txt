@@ -1,0 +1,14 @@
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\HashSet_e_SortedSet\HashSet_e_SortedSet\bin\Debug\netcoreapp3.1\HashSet_e_SortedSet.exe
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\HashSet_e_SortedSet\HashSet_e_SortedSet\bin\Debug\netcoreapp3.1\HashSet_e_SortedSet.deps.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\HashSet_e_SortedSet\HashSet_e_SortedSet\bin\Debug\netcoreapp3.1\HashSet_e_SortedSet.runtimeconfig.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\HashSet_e_SortedSet\HashSet_e_SortedSet\bin\Debug\netcoreapp3.1\HashSet_e_SortedSet.runtimeconfig.dev.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\HashSet_e_SortedSet\HashSet_e_SortedSet\bin\Debug\netcoreapp3.1\HashSet_e_SortedSet.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\HashSet_e_SortedSet\HashSet_e_SortedSet\bin\Debug\netcoreapp3.1\HashSet_e_SortedSet.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\HashSet_e_SortedSet\HashSet_e_SortedSet\obj\Debug\netcoreapp3.1\HashSet_e_SortedSet.csproj.AssemblyReference.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\HashSet_e_SortedSet\HashSet_e_SortedSet\obj\Debug\netcoreapp3.1\HashSet_e_SortedSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\HashSet_e_SortedSet\HashSet_e_SortedSet\obj\Debug\netcoreapp3.1\HashSet_e_SortedSet.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\HashSet_e_SortedSet\HashSet_e_SortedSet\obj\Debug\netcoreapp3.1\HashSet_e_SortedSet.AssemblyInfo.cs
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\HashSet_e_SortedSet\HashSet_e_SortedSet\obj\Debug\netcoreapp3.1\HashSet_e_SortedSet.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\HashSet_e_SortedSet\HashSet_e_SortedSet\obj\Debug\netcoreapp3.1\HashSet_e_SortedSet.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\HashSet_e_SortedSet\HashSet_e_SortedSet\obj\Debug\netcoreapp3.1\HashSet_e_SortedSet.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\HashSet_e_SortedSet\HashSet_e_SortedSet\obj\Debug\netcoreapp3.1\HashSet_e_SortedSet.genruntimeconfig.cache
