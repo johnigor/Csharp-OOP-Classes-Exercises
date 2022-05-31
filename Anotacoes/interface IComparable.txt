@@ -1,0 +1,21 @@
+Interface IComparable
+
+	Sintaxe:
+
+namespace System {
+	public interface IComparable {
+
+		int CompareTo(object obj);
+	}
+}
+
+	Value:
+
+- Less than zero -> The current instance preceds the object specified by the 
+CompareTo method in the sort order
+
+- Zero -> This current instance occurs in the same position in the sort order
+as the object specified by the CompareTo method.
+
+- Grater than zero -> This current instance follows the object specified by the
+CompareTo method in the sort order.

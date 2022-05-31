@@ -1,0 +1,14 @@
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Interfaces\Interface_IComparable\Interface_IComparable\bin\Debug\netcoreapp3.1\Interface_IComparable.exe
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Interfaces\Interface_IComparable\Interface_IComparable\bin\Debug\netcoreapp3.1\Interface_IComparable.deps.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Interfaces\Interface_IComparable\Interface_IComparable\bin\Debug\netcoreapp3.1\Interface_IComparable.runtimeconfig.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Interfaces\Interface_IComparable\Interface_IComparable\bin\Debug\netcoreapp3.1\Interface_IComparable.runtimeconfig.dev.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Interfaces\Interface_IComparable\Interface_IComparable\bin\Debug\netcoreapp3.1\Interface_IComparable.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Interfaces\Interface_IComparable\Interface_IComparable\bin\Debug\netcoreapp3.1\Interface_IComparable.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Interfaces\Interface_IComparable\Interface_IComparable\obj\Debug\netcoreapp3.1\Interface_IComparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Interfaces\Interface_IComparable\Interface_IComparable\obj\Debug\netcoreapp3.1\Interface_IComparable.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Interfaces\Interface_IComparable\Interface_IComparable\obj\Debug\netcoreapp3.1\Interface_IComparable.AssemblyInfo.cs
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Interfaces\Interface_IComparable\Interface_IComparable\obj\Debug\netcoreapp3.1\Interface_IComparable.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Interfaces\Interface_IComparable\Interface_IComparable\obj\Debug\netcoreapp3.1\Interface_IComparable.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Interfaces\Interface_IComparable\Interface_IComparable\obj\Debug\netcoreapp3.1\Interface_IComparable.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Interfaces\Interface_IComparable\Interface_IComparable\obj\Debug\netcoreapp3.1\Interface_IComparable.genruntimeconfig.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Interfaces\Interface_IComparable\Interface_IComparable\obj\Debug\netcoreapp3.1\Interface_IComparable.csproj.AssemblyReference.cache
