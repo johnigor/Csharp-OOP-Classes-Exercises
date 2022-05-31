@@ -1,0 +1,14 @@
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\Aula_213_ex\Aula_213_ex\bin\Debug\netcoreapp3.1\Aula_213_ex.exe
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\Aula_213_ex\Aula_213_ex\bin\Debug\netcoreapp3.1\Aula_213_ex.deps.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\Aula_213_ex\Aula_213_ex\bin\Debug\netcoreapp3.1\Aula_213_ex.runtimeconfig.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\Aula_213_ex\Aula_213_ex\bin\Debug\netcoreapp3.1\Aula_213_ex.runtimeconfig.dev.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\Aula_213_ex\Aula_213_ex\bin\Debug\netcoreapp3.1\Aula_213_ex.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\Aula_213_ex\Aula_213_ex\bin\Debug\netcoreapp3.1\Aula_213_ex.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\Aula_213_ex\Aula_213_ex\obj\Debug\netcoreapp3.1\Aula_213_ex.csproj.AssemblyReference.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\Aula_213_ex\Aula_213_ex\obj\Debug\netcoreapp3.1\Aula_213_ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\Aula_213_ex\Aula_213_ex\obj\Debug\netcoreapp3.1\Aula_213_ex.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\Aula_213_ex\Aula_213_ex\obj\Debug\netcoreapp3.1\Aula_213_ex.AssemblyInfo.cs
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\Aula_213_ex\Aula_213_ex\obj\Debug\netcoreapp3.1\Aula_213_ex.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\Aula_213_ex\Aula_213_ex\obj\Debug\netcoreapp3.1\Aula_213_ex.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\Aula_213_ex\Aula_213_ex\obj\Debug\netcoreapp3.1\Aula_213_ex.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\Aula_213_ex\Aula_213_ex\obj\Debug\netcoreapp3.1\Aula_213_ex.genruntimeconfig.cache
