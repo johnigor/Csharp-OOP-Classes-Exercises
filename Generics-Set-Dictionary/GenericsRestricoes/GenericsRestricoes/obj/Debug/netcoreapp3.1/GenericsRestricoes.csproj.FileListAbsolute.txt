@@ -1,0 +1,14 @@
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\GenericsRestricoes\GenericsRestricoes\bin\Debug\netcoreapp3.1\GenericsRestricoes.exe
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\GenericsRestricoes\GenericsRestricoes\bin\Debug\netcoreapp3.1\GenericsRestricoes.deps.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\GenericsRestricoes\GenericsRestricoes\bin\Debug\netcoreapp3.1\GenericsRestricoes.runtimeconfig.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\GenericsRestricoes\GenericsRestricoes\bin\Debug\netcoreapp3.1\GenericsRestricoes.runtimeconfig.dev.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\GenericsRestricoes\GenericsRestricoes\bin\Debug\netcoreapp3.1\GenericsRestricoes.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\GenericsRestricoes\GenericsRestricoes\bin\Debug\netcoreapp3.1\GenericsRestricoes.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\GenericsRestricoes\GenericsRestricoes\obj\Debug\netcoreapp3.1\GenericsRestricoes.csproj.AssemblyReference.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\GenericsRestricoes\GenericsRestricoes\obj\Debug\netcoreapp3.1\GenericsRestricoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\GenericsRestricoes\GenericsRestricoes\obj\Debug\netcoreapp3.1\GenericsRestricoes.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\GenericsRestricoes\GenericsRestricoes\obj\Debug\netcoreapp3.1\GenericsRestricoes.AssemblyInfo.cs
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\GenericsRestricoes\GenericsRestricoes\obj\Debug\netcoreapp3.1\GenericsRestricoes.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\GenericsRestricoes\GenericsRestricoes\obj\Debug\netcoreapp3.1\GenericsRestricoes.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\GenericsRestricoes\GenericsRestricoes\obj\Debug\netcoreapp3.1\GenericsRestricoes.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Generics-Set-Dictionary\GenericsRestricoes\GenericsRestricoes\obj\Debug\netcoreapp3.1\GenericsRestricoes.genruntimeconfig.cache
