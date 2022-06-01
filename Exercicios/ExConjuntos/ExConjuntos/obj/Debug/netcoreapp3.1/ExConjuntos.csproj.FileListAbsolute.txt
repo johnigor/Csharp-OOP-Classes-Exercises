@@ -1,0 +1,14 @@
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\ExConjuntos\ExConjuntos\bin\Debug\netcoreapp3.1\ExConjuntos.exe
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\ExConjuntos\ExConjuntos\bin\Debug\netcoreapp3.1\ExConjuntos.deps.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\ExConjuntos\ExConjuntos\bin\Debug\netcoreapp3.1\ExConjuntos.runtimeconfig.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\ExConjuntos\ExConjuntos\bin\Debug\netcoreapp3.1\ExConjuntos.runtimeconfig.dev.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\ExConjuntos\ExConjuntos\bin\Debug\netcoreapp3.1\ExConjuntos.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\ExConjuntos\ExConjuntos\bin\Debug\netcoreapp3.1\ExConjuntos.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\ExConjuntos\ExConjuntos\obj\Debug\netcoreapp3.1\ExConjuntos.csproj.AssemblyReference.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\ExConjuntos\ExConjuntos\obj\Debug\netcoreapp3.1\ExConjuntos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\ExConjuntos\ExConjuntos\obj\Debug\netcoreapp3.1\ExConjuntos.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\ExConjuntos\ExConjuntos\obj\Debug\netcoreapp3.1\ExConjuntos.AssemblyInfo.cs
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\ExConjuntos\ExConjuntos\obj\Debug\netcoreapp3.1\ExConjuntos.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\ExConjuntos\ExConjuntos\obj\Debug\netcoreapp3.1\ExConjuntos.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\ExConjuntos\ExConjuntos\obj\Debug\netcoreapp3.1\ExConjuntos.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\ExConjuntos\ExConjuntos\obj\Debug\netcoreapp3.1\ExConjuntos.genruntimeconfig.cache
