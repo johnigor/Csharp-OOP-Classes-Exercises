@@ -1,0 +1,14 @@
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.exe
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.deps.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.runtimeconfig.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.runtimeconfig.dev.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.csproj.AssemblyReference.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.AssemblyInfo.cs
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\TopicosEspeciaisC-Sharp\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.genruntimeconfig.cache

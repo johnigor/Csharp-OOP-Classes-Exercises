@@ -1,0 +1,14 @@
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\ExPropostoDictionary\ExPropostoDictionary\bin\Debug\netcoreapp3.1\ExPropostoDictionary.exe
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\ExPropostoDictionary\ExPropostoDictionary\bin\Debug\netcoreapp3.1\ExPropostoDictionary.deps.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\ExPropostoDictionary\ExPropostoDictionary\bin\Debug\netcoreapp3.1\ExPropostoDictionary.runtimeconfig.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\ExPropostoDictionary\ExPropostoDictionary\bin\Debug\netcoreapp3.1\ExPropostoDictionary.runtimeconfig.dev.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\ExPropostoDictionary\ExPropostoDictionary\bin\Debug\netcoreapp3.1\ExPropostoDictionary.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\ExPropostoDictionary\ExPropostoDictionary\bin\Debug\netcoreapp3.1\ExPropostoDictionary.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\ExPropostoDictionary\ExPropostoDictionary\obj\Debug\netcoreapp3.1\ExPropostoDictionary.csproj.AssemblyReference.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\ExPropostoDictionary\ExPropostoDictionary\obj\Debug\netcoreapp3.1\ExPropostoDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\ExPropostoDictionary\ExPropostoDictionary\obj\Debug\netcoreapp3.1\ExPropostoDictionary.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\ExPropostoDictionary\ExPropostoDictionary\obj\Debug\netcoreapp3.1\ExPropostoDictionary.AssemblyInfo.cs
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\ExPropostoDictionary\ExPropostoDictionary\obj\Debug\netcoreapp3.1\ExPropostoDictionary.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\ExPropostoDictionary\ExPropostoDictionary\obj\Debug\netcoreapp3.1\ExPropostoDictionary.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\ExPropostoDictionary\ExPropostoDictionary\obj\Debug\netcoreapp3.1\ExPropostoDictionary.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\ExPropostoDictionary\ExPropostoDictionary\obj\Debug\netcoreapp3.1\ExPropostoDictionary.genruntimeconfig.cache
