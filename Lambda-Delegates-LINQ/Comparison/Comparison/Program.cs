@@ -25,9 +25,9 @@ namespace Comparison
 
             //   Pode ser feito assim também: com declaração de fução lambda
             //Comparison<Product> comp = (p1, p2) => p1.Name.ToUpper().CompareTo(p2.Name.ToUpper()); //declaração de função anônima
-            
+
             //a função pode ser declarada diretamente no parametro do sort
-            list.Sort((p1, p2) => p1.Name.ToUpper().CompareTo(p2.Name.ToUpper()));         
+            list.Sort((p1, p2) => p1.Name.ToUpper().CompareTo(p2.Name.ToUpper()));
 
             //delegate: uma referência para a função auxiliar (com typesafety)
             //list.Sort(CompareProducts);
@@ -38,7 +38,7 @@ namespace Comparison
             }
         }
 
-        //função auxiliar 
+        //função auxiliar
         /* 
         static int CompareProducts(Product p1, Product p2)
         {

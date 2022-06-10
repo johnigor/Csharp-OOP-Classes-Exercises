@@ -1,0 +1,7 @@
+Paradigmas de programação
+
+- Imperativo (C, Pascal, Fortran, Cobol)
+- Orientado a objetos (C++, Object Pascal, Java(< 8), C#(< 3))
+- Funcional (Haskell, Closure, Clean, Erlang)
+- Lógico (Prolog)
+- Multiparadigma (JavaScript, Java(8+), C# (3+), Ruby, Python, Go)
