@@ -1,0 +1,14 @@
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\MulticastDelegates\MulticastDelegates\bin\Debug\netcoreapp3.1\MulticastDelegates.exe
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\MulticastDelegates\MulticastDelegates\bin\Debug\netcoreapp3.1\MulticastDelegates.deps.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\MulticastDelegates\MulticastDelegates\bin\Debug\netcoreapp3.1\MulticastDelegates.runtimeconfig.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\MulticastDelegates\MulticastDelegates\bin\Debug\netcoreapp3.1\MulticastDelegates.runtimeconfig.dev.json
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\MulticastDelegates\MulticastDelegates\bin\Debug\netcoreapp3.1\MulticastDelegates.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\MulticastDelegates\MulticastDelegates\bin\Debug\netcoreapp3.1\MulticastDelegates.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\MulticastDelegates\MulticastDelegates\obj\Debug\netcoreapp3.1\MulticastDelegates.csproj.AssemblyReference.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\MulticastDelegates\MulticastDelegates\obj\Debug\netcoreapp3.1\MulticastDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\MulticastDelegates\MulticastDelegates\obj\Debug\netcoreapp3.1\MulticastDelegates.AssemblyInfoInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\MulticastDelegates\MulticastDelegates\obj\Debug\netcoreapp3.1\MulticastDelegates.AssemblyInfo.cs
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\MulticastDelegates\MulticastDelegates\obj\Debug\netcoreapp3.1\MulticastDelegates.csproj.CoreCompileInputs.cache
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\MulticastDelegates\MulticastDelegates\obj\Debug\netcoreapp3.1\MulticastDelegates.dll
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\MulticastDelegates\MulticastDelegates\obj\Debug\netcoreapp3.1\MulticastDelegates.pdb
+C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\MulticastDelegates\MulticastDelegates\obj\Debug\netcoreapp3.1\MulticastDelegates.genruntimeconfig.cache
