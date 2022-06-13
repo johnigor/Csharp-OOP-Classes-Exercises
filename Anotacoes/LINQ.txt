@@ -1,0 +1,35 @@
+LINQ - Language Integrated Query
+
+- É um conjunto de tecnologias baseadas na integração de funcionalidades de consulta diretamente na linguagem c#
+	- Operações chamadas diretamente a partir das coleções
+	- Consultas são objetos de primeira classe
+	- Suporte do compilador e IntelliSense da IDE
+
+- Namespace: System.Linq
+
+- Possui diversas operações de consulta, cujos parâmetros tipicamente são expressões lambda ou expressões de sintaxe 
+similar à SQL
+
+
+Três passos:
+
+- Criar um data source (coleção, array, recurso de Entrada/Saída, etc.)
+- Definir a query(consulta)
+- Executar a query(foreach ou alguma operação terminal)
+
+OPERAÇÕES DO LINQ:
+
+- Filtering: Where, OfType
+- Sorting: OrderBy, OrderByDescending, ThenBy, ThenByDescending, Reverse
+- Set: Distinct, Except, Intersect, Union
+- Quantification: All, Any, Contains
+- Projection: Select, SelecMany
+- Partition: Skip, Take
+- Join: Join, GroupJoin
+- Grouping: GroupBy
+- Generational: Empty
+- Equality SequenceEquals
+- Element: ElementAt, First, FirstOrDefault, Last, LastOrDefault, Single, SingleOrDefault
+- Conversions: AsEnumerable, AsQueryable
+- Concatenation: Concat
+- Aggregation: Aggregate, Average, Count, LongCount, Max, Min, Sum

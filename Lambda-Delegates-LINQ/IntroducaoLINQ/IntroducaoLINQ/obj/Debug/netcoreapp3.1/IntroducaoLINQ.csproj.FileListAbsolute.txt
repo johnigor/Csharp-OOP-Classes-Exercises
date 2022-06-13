@@ -1,0 +1,14 @@
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\IntroducaoLINQ\IntroducaoLINQ\bin\Debug\netcoreapp3.1\IntroducaoLINQ.exe
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\IntroducaoLINQ\IntroducaoLINQ\bin\Debug\netcoreapp3.1\IntroducaoLINQ.deps.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\IntroducaoLINQ\IntroducaoLINQ\bin\Debug\netcoreapp3.1\IntroducaoLINQ.runtimeconfig.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\IntroducaoLINQ\IntroducaoLINQ\bin\Debug\netcoreapp3.1\IntroducaoLINQ.runtimeconfig.dev.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\IntroducaoLINQ\IntroducaoLINQ\bin\Debug\netcoreapp3.1\IntroducaoLINQ.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\IntroducaoLINQ\IntroducaoLINQ\bin\Debug\netcoreapp3.1\IntroducaoLINQ.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\IntroducaoLINQ\IntroducaoLINQ\obj\Debug\netcoreapp3.1\IntroducaoLINQ.csproj.AssemblyReference.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\IntroducaoLINQ\IntroducaoLINQ\obj\Debug\netcoreapp3.1\IntroducaoLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\IntroducaoLINQ\IntroducaoLINQ\obj\Debug\netcoreapp3.1\IntroducaoLINQ.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\IntroducaoLINQ\IntroducaoLINQ\obj\Debug\netcoreapp3.1\IntroducaoLINQ.AssemblyInfo.cs
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\IntroducaoLINQ\IntroducaoLINQ\obj\Debug\netcoreapp3.1\IntroducaoLINQ.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\IntroducaoLINQ\IntroducaoLINQ\obj\Debug\netcoreapp3.1\IntroducaoLINQ.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\IntroducaoLINQ\IntroducaoLINQ\obj\Debug\netcoreapp3.1\IntroducaoLINQ.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\IntroducaoLINQ\IntroducaoLINQ\obj\Debug\netcoreapp3.1\IntroducaoLINQ.genruntimeconfig.cache
