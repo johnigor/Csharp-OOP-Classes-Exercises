@@ -1,0 +1,14 @@
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\LinqComLambda\LinqComLambda\bin\Debug\netcoreapp3.1\LinqComLambda.exe
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\LinqComLambda\LinqComLambda\bin\Debug\netcoreapp3.1\LinqComLambda.deps.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\LinqComLambda\LinqComLambda\bin\Debug\netcoreapp3.1\LinqComLambda.runtimeconfig.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\LinqComLambda\LinqComLambda\bin\Debug\netcoreapp3.1\LinqComLambda.runtimeconfig.dev.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\LinqComLambda\LinqComLambda\bin\Debug\netcoreapp3.1\LinqComLambda.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\LinqComLambda\LinqComLambda\bin\Debug\netcoreapp3.1\LinqComLambda.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\LinqComLambda\LinqComLambda\obj\Debug\netcoreapp3.1\LinqComLambda.csproj.AssemblyReference.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\LinqComLambda\LinqComLambda\obj\Debug\netcoreapp3.1\LinqComLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\LinqComLambda\LinqComLambda\obj\Debug\netcoreapp3.1\LinqComLambda.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\LinqComLambda\LinqComLambda\obj\Debug\netcoreapp3.1\LinqComLambda.AssemblyInfo.cs
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\LinqComLambda\LinqComLambda\obj\Debug\netcoreapp3.1\LinqComLambda.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\LinqComLambda\LinqComLambda\obj\Debug\netcoreapp3.1\LinqComLambda.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\LinqComLambda\LinqComLambda\obj\Debug\netcoreapp3.1\LinqComLambda.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\LinqComLambda\LinqComLambda\obj\Debug\netcoreapp3.1\LinqComLambda.genruntimeconfig.cache
