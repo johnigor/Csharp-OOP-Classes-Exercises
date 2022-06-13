@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32510.428
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgebraRelacional-e-SQL", "AlgebraRelacional-e-SQL\AlgebraRelacional-e-SQL.csproj", "{A1ADBE9B-64A1-486F-9226-658DB8C91C42}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQcomNotacaoSimilar-SQL", "LINQcomNotacaoSimilar-SQL\LINQcomNotacaoSimilar-SQL.csproj", "{E4D60F56-734C-47E5-8A75-C1C82C281785}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A1ADBE9B-64A1-486F-9226-658DB8C91C42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A1ADBE9B-64A1-486F-9226-658DB8C91C42}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A1ADBE9B-64A1-486F-9226-658DB8C91C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A1ADBE9B-64A1-486F-9226-658DB8C91C42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4D60F56-734C-47E5-8A75-C1C82C281785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4D60F56-734C-47E5-8A75-C1C82C281785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4D60F56-734C-47E5-8A75-C1C82C281785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4D60F56-734C-47E5-8A75-C1C82C281785}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {60B66CAE-DC4B-4FE6-ACC1-5E6D59E571FE}
+		SolutionGuid = {66F9CF0D-DD8F-4E9B-9E4B-2329D7BCB585}
 	EndGlobalSection
 EndGlobal

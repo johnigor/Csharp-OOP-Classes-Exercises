@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("AlgebraRelacional-e-SQL")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LINQcomNotacaoSimilar-SQL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("AlgebraRelacional-e-SQL")]
-[assembly: System.Reflection.AssemblyTitleAttribute("AlgebraRelacional-e-SQL")]
+[assembly: System.Reflection.AssemblyProductAttribute("LINQcomNotacaoSimilar-SQL")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LINQcomNotacaoSimilar-SQL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

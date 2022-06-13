@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AlgebraRelacional_e_SQL
+namespace LINQcomNotacaoSimilar_SQL
 {
     class Program
     {
