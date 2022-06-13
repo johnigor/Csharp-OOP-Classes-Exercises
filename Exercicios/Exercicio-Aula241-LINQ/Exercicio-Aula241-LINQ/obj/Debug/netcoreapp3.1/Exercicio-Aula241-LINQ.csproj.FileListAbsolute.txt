@@ -1,0 +1,14 @@
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\Exercicio-Aula241-LINQ\Exercicio-Aula241-LINQ\bin\Debug\netcoreapp3.1\Exercicio-Aula241-LINQ.exe
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\Exercicio-Aula241-LINQ\Exercicio-Aula241-LINQ\bin\Debug\netcoreapp3.1\Exercicio-Aula241-LINQ.deps.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\Exercicio-Aula241-LINQ\Exercicio-Aula241-LINQ\bin\Debug\netcoreapp3.1\Exercicio-Aula241-LINQ.runtimeconfig.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\Exercicio-Aula241-LINQ\Exercicio-Aula241-LINQ\bin\Debug\netcoreapp3.1\Exercicio-Aula241-LINQ.runtimeconfig.dev.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\Exercicio-Aula241-LINQ\Exercicio-Aula241-LINQ\bin\Debug\netcoreapp3.1\Exercicio-Aula241-LINQ.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\Exercicio-Aula241-LINQ\Exercicio-Aula241-LINQ\bin\Debug\netcoreapp3.1\Exercicio-Aula241-LINQ.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\Exercicio-Aula241-LINQ\Exercicio-Aula241-LINQ\obj\Debug\netcoreapp3.1\Exercicio-Aula241-LINQ.csproj.AssemblyReference.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\Exercicio-Aula241-LINQ\Exercicio-Aula241-LINQ\obj\Debug\netcoreapp3.1\Exercicio-Aula241-LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\Exercicio-Aula241-LINQ\Exercicio-Aula241-LINQ\obj\Debug\netcoreapp3.1\Exercicio-Aula241-LINQ.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\Exercicio-Aula241-LINQ\Exercicio-Aula241-LINQ\obj\Debug\netcoreapp3.1\Exercicio-Aula241-LINQ.AssemblyInfo.cs
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\Exercicio-Aula241-LINQ\Exercicio-Aula241-LINQ\obj\Debug\netcoreapp3.1\Exercicio-Aula241-LINQ.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\Exercicio-Aula241-LINQ\Exercicio-Aula241-LINQ\obj\Debug\netcoreapp3.1\Exercicio-Aula241-LINQ.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\Exercicio-Aula241-LINQ\Exercicio-Aula241-LINQ\obj\Debug\netcoreapp3.1\Exercicio-Aula241-LINQ.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Exercicios\Exercicio-Aula241-LINQ\Exercicio-Aula241-LINQ\obj\Debug\netcoreapp3.1\Exercicio-Aula241-LINQ.genruntimeconfig.cache
