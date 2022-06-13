@@ -12,3 +12,17 @@ C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\De
 C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.dll
 C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.pdb
 C:\Curso_Udemy_OOP_CSHARP\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.genruntimeconfig.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.exe
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.deps.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.dev.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.csproj.AssemblyReference.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfo.cs
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.genruntimeconfig.cache

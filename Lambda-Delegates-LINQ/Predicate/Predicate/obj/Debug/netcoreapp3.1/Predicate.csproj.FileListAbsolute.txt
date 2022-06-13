@@ -1,0 +1,14 @@
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Predicate\Predicate\bin\Debug\netcoreapp3.1\Predicate.exe
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Predicate\Predicate\bin\Debug\netcoreapp3.1\Predicate.deps.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Predicate\Predicate\bin\Debug\netcoreapp3.1\Predicate.runtimeconfig.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Predicate\Predicate\bin\Debug\netcoreapp3.1\Predicate.runtimeconfig.dev.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Predicate\Predicate\bin\Debug\netcoreapp3.1\Predicate.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Predicate\Predicate\bin\Debug\netcoreapp3.1\Predicate.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Predicate\Predicate\obj\Debug\netcoreapp3.1\Predicate.csproj.AssemblyReference.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Predicate\Predicate\obj\Debug\netcoreapp3.1\Predicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Predicate\Predicate\obj\Debug\netcoreapp3.1\Predicate.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Predicate\Predicate\obj\Debug\netcoreapp3.1\Predicate.AssemblyInfo.cs
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Predicate\Predicate\obj\Debug\netcoreapp3.1\Predicate.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Predicate\Predicate\obj\Debug\netcoreapp3.1\Predicate.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Predicate\Predicate\obj\Debug\netcoreapp3.1\Predicate.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Predicate\Predicate\obj\Debug\netcoreapp3.1\Predicate.genruntimeconfig.cache

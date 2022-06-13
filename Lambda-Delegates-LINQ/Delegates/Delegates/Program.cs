@@ -5,7 +5,7 @@ namespace Delegates
 {
     internal class Program
     {
-
+        //declarando o delegate
         delegate double BinaryNumericOperation(double n1, double n2); //delegate que recebe dois numeros double e retorna um numero double
 
         static void Main(string[] args)

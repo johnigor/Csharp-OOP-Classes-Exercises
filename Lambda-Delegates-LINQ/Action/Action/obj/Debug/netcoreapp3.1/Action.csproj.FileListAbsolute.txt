@@ -1,0 +1,14 @@
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Action\Action\bin\Debug\netcoreapp3.1\Action.exe
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Action\Action\bin\Debug\netcoreapp3.1\Action.deps.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Action\Action\bin\Debug\netcoreapp3.1\Action.runtimeconfig.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Action\Action\bin\Debug\netcoreapp3.1\Action.runtimeconfig.dev.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Action\Action\bin\Debug\netcoreapp3.1\Action.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Action\Action\bin\Debug\netcoreapp3.1\Action.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Action\Action\obj\Debug\netcoreapp3.1\Action.csproj.AssemblyReference.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Action\Action\obj\Debug\netcoreapp3.1\Action.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Action\Action\obj\Debug\netcoreapp3.1\Action.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Action\Action\obj\Debug\netcoreapp3.1\Action.AssemblyInfo.cs
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Action\Action\obj\Debug\netcoreapp3.1\Action.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Action\Action\obj\Debug\netcoreapp3.1\Action.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Action\Action\obj\Debug\netcoreapp3.1\Action.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Action\Action\obj\Debug\netcoreapp3.1\Action.genruntimeconfig.cache

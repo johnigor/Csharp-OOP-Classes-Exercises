@@ -1,5 +1,4 @@
 ﻿using MulticastDelegates.Services;
-using System;
 
 namespace MulticastDelegates
 {
@@ -19,13 +18,13 @@ namespace MulticastDelegates
             double a = 10;
             double b = 12;
 
-            BinaryNumericOperation op = CalculationService.ShowSum;
-            op += CalculationService.ShowMax;
+            BinaryNumericOperation op = CalculationService.ShowSum; //soma
+            op += CalculationService.ShowMax; //máximo
 
             op.Invoke(a, b);
 
-            //Pode usar dessa forma:
-            //op(a, b);
+            //Também pode usar dessa forma:
+            op(a, b);
         }
     }
 }

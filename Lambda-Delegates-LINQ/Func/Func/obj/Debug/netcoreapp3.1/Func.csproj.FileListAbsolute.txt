@@ -1,0 +1,14 @@
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Func\Func\bin\Debug\netcoreapp3.1\Func.exe
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Func\Func\bin\Debug\netcoreapp3.1\Func.deps.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Func\Func\bin\Debug\netcoreapp3.1\Func.runtimeconfig.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Func\Func\bin\Debug\netcoreapp3.1\Func.runtimeconfig.dev.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Func\Func\bin\Debug\netcoreapp3.1\Func.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Func\Func\bin\Debug\netcoreapp3.1\Func.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Func\Func\obj\Debug\netcoreapp3.1\Func.csproj.AssemblyReference.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Func\Func\obj\Debug\netcoreapp3.1\Func.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Func\Func\obj\Debug\netcoreapp3.1\Func.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Func\Func\obj\Debug\netcoreapp3.1\Func.AssemblyInfo.cs
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Func\Func\obj\Debug\netcoreapp3.1\Func.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Func\Func\obj\Debug\netcoreapp3.1\Func.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Func\Func\obj\Debug\netcoreapp3.1\Func.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\Func\Func\obj\Debug\netcoreapp3.1\Func.genruntimeconfig.cache
