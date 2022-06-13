@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-namespace LinqComLambda.Entities
+namespace Course.Entities
 {
     class Product
     {

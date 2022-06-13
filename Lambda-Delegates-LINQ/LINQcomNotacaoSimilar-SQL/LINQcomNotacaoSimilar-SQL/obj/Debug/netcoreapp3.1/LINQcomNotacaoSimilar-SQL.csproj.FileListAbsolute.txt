@@ -1,0 +1,14 @@
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\LINQcomNotacaoSimilar-SQL\LINQcomNotacaoSimilar-SQL\bin\Debug\netcoreapp3.1\LINQcomNotacaoSimilar-SQL.exe
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\LINQcomNotacaoSimilar-SQL\LINQcomNotacaoSimilar-SQL\bin\Debug\netcoreapp3.1\LINQcomNotacaoSimilar-SQL.deps.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\LINQcomNotacaoSimilar-SQL\LINQcomNotacaoSimilar-SQL\bin\Debug\netcoreapp3.1\LINQcomNotacaoSimilar-SQL.runtimeconfig.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\LINQcomNotacaoSimilar-SQL\LINQcomNotacaoSimilar-SQL\bin\Debug\netcoreapp3.1\LINQcomNotacaoSimilar-SQL.runtimeconfig.dev.json
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\LINQcomNotacaoSimilar-SQL\LINQcomNotacaoSimilar-SQL\bin\Debug\netcoreapp3.1\LINQcomNotacaoSimilar-SQL.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\LINQcomNotacaoSimilar-SQL\LINQcomNotacaoSimilar-SQL\bin\Debug\netcoreapp3.1\LINQcomNotacaoSimilar-SQL.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\LINQcomNotacaoSimilar-SQL\LINQcomNotacaoSimilar-SQL\obj\Debug\netcoreapp3.1\LINQcomNotacaoSimilar-SQL.csproj.AssemblyReference.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\LINQcomNotacaoSimilar-SQL\LINQcomNotacaoSimilar-SQL\obj\Debug\netcoreapp3.1\LINQcomNotacaoSimilar-SQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\LINQcomNotacaoSimilar-SQL\LINQcomNotacaoSimilar-SQL\obj\Debug\netcoreapp3.1\LINQcomNotacaoSimilar-SQL.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\LINQcomNotacaoSimilar-SQL\LINQcomNotacaoSimilar-SQL\obj\Debug\netcoreapp3.1\LINQcomNotacaoSimilar-SQL.AssemblyInfo.cs
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\LINQcomNotacaoSimilar-SQL\LINQcomNotacaoSimilar-SQL\obj\Debug\netcoreapp3.1\LINQcomNotacaoSimilar-SQL.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\LINQcomNotacaoSimilar-SQL\LINQcomNotacaoSimilar-SQL\obj\Debug\netcoreapp3.1\LINQcomNotacaoSimilar-SQL.dll
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\LINQcomNotacaoSimilar-SQL\LINQcomNotacaoSimilar-SQL\obj\Debug\netcoreapp3.1\LINQcomNotacaoSimilar-SQL.pdb
+C:\Users\John\Desktop\aulas-e-exercicios-oop-csharp\Lambda-Delegates-LINQ\LINQcomNotacaoSimilar-SQL\LINQcomNotacaoSimilar-SQL\obj\Debug\netcoreapp3.1\LINQcomNotacaoSimilar-SQL.genruntimeconfig.cache
