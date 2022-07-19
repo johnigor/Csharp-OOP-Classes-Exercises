@@ -10,16 +10,18 @@ namespace PagamentosFuncionario.Entities
         public string Nome { get; set; }
         public int DiasDeTrabalho { get; set; }
         public double Salario { get; set; }
+        public double Bonus { get; set; }
 
         public Funcionario()
         {
         }
-        public Funcionario(string cpf, string nome, int diasDeTrabalho, double salario)
+        public Funcionario(string cpf, string nome, int diasDeTrabalho, double salario, double bonus)
         {
             Cpf = cpf;
             Nome = nome;
             DiasDeTrabalho = diasDeTrabalho;
             Salario = salario;
+            Bonus = bonus;
         }
         public int Meses()
         {
@@ -62,6 +64,13 @@ namespace PagamentosFuncionario.Entities
         {
             double pagamento = Salario - ((Salario * 0.06) + (Salario * Inss(Salario)));
             return pagamento;
+        }
+
+        public double BonusAcumulado()
+        {
+            double bonusMensal = 89;
+            Bonus = bonusMensal * Meses();
+            return Bonus;
         }
     }
 }

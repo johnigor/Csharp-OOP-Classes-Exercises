@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Globalization;
+using System.Linq;
 using PagamentosFuncionario.Entities;
 
 namespace PagamentosFuncionario
@@ -28,6 +29,7 @@ namespace PagamentosFuncionario
                     string nome = Console.ReadLine();
 
                     int diasDeTrabalho = 0;
+                    double bonus = 0;
 
                     Console.Write("Informe o salário do funcionário: ");
                     double salario = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
@@ -38,7 +40,8 @@ namespace PagamentosFuncionario
                         Cpf = cpf,
                         Nome = nome,
                         DiasDeTrabalho = diasDeTrabalho,
-                        Salario = salario
+                        Salario = salario,
+                        Bonus = bonus
                     };
                     funcionarios.Add(funcionario);
 
@@ -58,14 +61,25 @@ namespace PagamentosFuncionario
                 {
                     Console.Write("Digite o Cpf do funcionário a ser consultado: ");
                     string cpf = Console.ReadLine();
-                    Console.WriteLine("Selecione a consulta que deseja fazer: ");
+                    Console.WriteLine("Selecione a opção de consulta que deseja fazer: (1/2/3) ");
                     Console.WriteLine();
 
-                    Console.WriteLine("Dias trabalhados: ");
-                    Console.WriteLine("Salário ");
-                    Console.WriteLine();
+                    Console.WriteLine(" 1. Dias trabalhados: ");
+                    Console.WriteLine(" 2. Salário");
+                    Console.WriteLine(" 3. Bônus acumulado");
+
+                    resposta = Console.ReadLine();
+
+                    Funcionario consulta = funcionarios.Find(x => x.Cpf);
+
+                    if (resposta == "1")
+                    {
+                        foreach (Funcionario func in funcionarios)
+                        {
+                            
+                        }
+                    }
                 }
-
             }
         }
     }
