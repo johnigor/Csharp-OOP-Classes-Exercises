@@ -1,0 +1,14 @@
+C:\Users\John\Desktop\teste\teste\bin\Debug\netcoreapp3.1\PagamentosFuncionario.exe
+C:\Users\John\Desktop\teste\teste\bin\Debug\netcoreapp3.1\PagamentosFuncionario.deps.json
+C:\Users\John\Desktop\teste\teste\bin\Debug\netcoreapp3.1\PagamentosFuncionario.runtimeconfig.json
+C:\Users\John\Desktop\teste\teste\bin\Debug\netcoreapp3.1\PagamentosFuncionario.runtimeconfig.dev.json
+C:\Users\John\Desktop\teste\teste\bin\Debug\netcoreapp3.1\PagamentosFuncionario.dll
+C:\Users\John\Desktop\teste\teste\bin\Debug\netcoreapp3.1\PagamentosFuncionario.pdb
+C:\Users\John\Desktop\teste\teste\obj\Debug\netcoreapp3.1\PagamentosFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\teste\teste\obj\Debug\netcoreapp3.1\PagamentosFuncionario.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\teste\teste\obj\Debug\netcoreapp3.1\PagamentosFuncionario.AssemblyInfo.cs
+C:\Users\John\Desktop\teste\teste\obj\Debug\netcoreapp3.1\PagamentosFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\teste\teste\obj\Debug\netcoreapp3.1\PagamentosFuncionario.dll
+C:\Users\John\Desktop\teste\teste\obj\Debug\netcoreapp3.1\PagamentosFuncionario.pdb
+C:\Users\John\Desktop\teste\teste\obj\Debug\netcoreapp3.1\PagamentosFuncionario.genruntimeconfig.cache
+C:\Users\John\Desktop\teste\teste\obj\Debug\netcoreapp3.1\PagamentosFuncionario.csproj.AssemblyReference.cache

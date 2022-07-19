@@ -1,0 +1,14 @@
+C:\Users\John\Desktop\teste\teste\bin\Debug\netcoreapp3.1\teste.exe
+C:\Users\John\Desktop\teste\teste\bin\Debug\netcoreapp3.1\teste.deps.json
+C:\Users\John\Desktop\teste\teste\bin\Debug\netcoreapp3.1\teste.runtimeconfig.json
+C:\Users\John\Desktop\teste\teste\bin\Debug\netcoreapp3.1\teste.runtimeconfig.dev.json
+C:\Users\John\Desktop\teste\teste\bin\Debug\netcoreapp3.1\teste.dll
+C:\Users\John\Desktop\teste\teste\bin\Debug\netcoreapp3.1\teste.pdb
+C:\Users\John\Desktop\teste\teste\obj\Debug\netcoreapp3.1\teste.csproj.AssemblyReference.cache
+C:\Users\John\Desktop\teste\teste\obj\Debug\netcoreapp3.1\teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\teste\teste\obj\Debug\netcoreapp3.1\teste.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\teste\teste\obj\Debug\netcoreapp3.1\teste.AssemblyInfo.cs
+C:\Users\John\Desktop\teste\teste\obj\Debug\netcoreapp3.1\teste.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\teste\teste\obj\Debug\netcoreapp3.1\teste.dll
+C:\Users\John\Desktop\teste\teste\obj\Debug\netcoreapp3.1\teste.pdb
+C:\Users\John\Desktop\teste\teste\obj\Debug\netcoreapp3.1\teste.genruntimeconfig.cache
