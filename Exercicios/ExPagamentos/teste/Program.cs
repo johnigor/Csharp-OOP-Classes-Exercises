@@ -54,31 +54,57 @@ namespace PagamentosFuncionario
                 Console.WriteLine();
 
                 Console.Write("Deseja fazer consultas para algum funcionário? y/n: ");
-
+                Console.WriteLine();
                 resposta = Console.ReadLine();
 
                 if (resposta.ToUpper().Equals("Y"))
                 {
                     Console.Write("Digite o Cpf do funcionário a ser consultado: ");
                     string cpf = Console.ReadLine();
+                    var consultado = funcionarios.Find(x => x.Cpf.Contains(cpf));
+                    Console.WriteLine();
+
                     Console.WriteLine("Selecione a opção de consulta que deseja fazer: (1/2/3) ");
                     Console.WriteLine();
 
                     Console.WriteLine(" 1. Dias trabalhados: ");
                     Console.WriteLine(" 2. Salário");
                     Console.WriteLine(" 3. Bônus acumulado");
+                    Console.WriteLine();
 
                     resposta = Console.ReadLine();
 
-                    Funcionario consulta = funcionarios.Find(x => x.Cpf);
-
-                    if (resposta == "1")
+                    //Funcionario consulta = funcionarios.Find(x => x.Cpf);
+                    try
                     {
-                        foreach (Funcionario func in funcionarios)
+                        if (resposta == "1")
                         {
-                            
+                            Console.WriteLine("O funcionário " + consultado.Nome + " tem " + consultado.DiasDeTrabalho + " dias trabalhados.");
+                        }
+
+                        if (resposta == "2")
+                        {
+                            Console.WriteLine("O funcionário "
+                                + consultado.Nome
+                                + " recebe R$"
+                                + consultado.Salario.ToString(), CultureInfo.InvariantCulture
+                                + " bruto por mês.");
+
+                            Console.WriteLine("Salário líquido: " + consultado.PagamentoMensal());
+                        }
+                        if (resposta == "3")
+                        {
+                            Console.WriteLine("O funcionário "
+                                + consultado.Nome + " possui R$"
+                                + consultado.BonusAcumulado().ToString(), CultureInfo.InvariantCulture
+                                + " em bônus para ser resgatado.");
                         }
                     }
+                    catch (Exception)
+                    {
+                        throw new Exception("Você deve inserir \"y\" ou \"n\" para prosseguir.");                            
+                    }
+
                 }
             }
         }
